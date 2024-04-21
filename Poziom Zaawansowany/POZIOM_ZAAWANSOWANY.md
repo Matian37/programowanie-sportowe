@@ -1,7 +1,3 @@
-
-# Uwaga
-Spis treści jest jeszcze w fazie tworzenia.
-
 # Spis treści poziomu Zaawansowanego:
 1. 2-SAT (-)
 2. Trwałe struktury danych (-)
