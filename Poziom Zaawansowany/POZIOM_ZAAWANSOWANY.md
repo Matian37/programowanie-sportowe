@@ -1,7 +1,7 @@
 # Spis treści poziomu Zaawansowanego:
 1. 2-SAT (-)
-2. Trwałe struktury danych (-)
-3. Algorytmy randomizowane (-)
+2. Algorytmy randomizowane (-)
+3. Trwałe struktury danych (-)
 4. Zaawansowana teoria liczb (-)
    - algorytm rho pollarda (-)
    - chińskie twierdzenie o resztach (-)
