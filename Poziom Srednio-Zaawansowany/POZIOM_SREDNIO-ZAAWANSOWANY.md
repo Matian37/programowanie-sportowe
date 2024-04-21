@@ -8,7 +8,7 @@
 2. Drzewo fenwicka (-)
 3. Sortowanie topologiczne (-)
 4. Technika small-to-large merging (-)
-5. Sumy Prefiksowe 2D (-)
+5. Sumy prefiksowe 2D (-)
 6. Find and union (-)
 7. Ścieżka i cykl eulera (-)
 8. Analiza kosztu zamortyzowanego (-)
