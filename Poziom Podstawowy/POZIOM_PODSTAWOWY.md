@@ -13,6 +13,7 @@
     - sito erastotensea (-)
     - faktoryzacja liczb (-)
     - znajdowanie dzielników i testy pierwszości (-)
+    - podstawy arytmetyki modulo (-)
 7. Wstęp do algorytmów tekstowych (-)
 8. Znajdowanie lidera w ciągu (-)
     - w złożoności O(n) (-)
