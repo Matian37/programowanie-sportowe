@@ -31,7 +31,7 @@
     - mergesort (-)
 18. Znajdowanie k-tego elementu w ciągu (-)
 19. Programowanie zachłanne (-)
-20. Technika Skalowania (-)
+20. Technika skalowania (-)
 21. Dziel i zwyciężaj (-)
 22. Wstęp do programowania dynamicznego (-)
     - podstawy programowania dynamicznego (-)
