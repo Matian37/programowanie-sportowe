@@ -30,13 +30,14 @@
     - mergesort (-)
 18. Znajdowanie k-tego elementu w ciągu (-)
 19. Programowanie zachłanne (-)
-20. Dziel i zwyciężaj (-)
-21. Wstęp do programowania dynamicznego (-)
+20. Technika Skalowania (-)
+21. Dziel i zwyciężaj (-)
+22. Wstęp do programowania dynamicznego (-)
     - podstawy programowania dynamicznego (-)
     - problem plecakowy (-)
-22. Wstęp do teorii grafów (-)
-23. Przeszukiwanie grafów (dfs, bfs) (-)
-24. Równoległe wyszukiwanie binarne (-)
+23. Wstęp do teorii grafów (-)
+24. Przeszukiwanie grafów (dfs, bfs) (-)
+25. Równoległe wyszukiwanie binarne (-)
 
 # Oznaczenia
 - (-) brak materiałów
