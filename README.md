@@ -13,7 +13,7 @@ Na ten moment dodawane będą materiały związane głównie z algorytmami, stru
 Każdy temat będzie wygladał mniej więcej tak:
 ```
     teoria.md -> wytłumaczenie tematu + inne materiały do nauki
-    listaZadan.md -> zadania algorytmiczne dotyczące poruszanego tematu
+    zadania.md -> zadania algorytmiczne dotyczące poruszanego tematu
     algorytm1.cpp -> implementacja algorytmu1 w c++
     ...
 ```
