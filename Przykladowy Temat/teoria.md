@@ -1,8 +1,8 @@
 # Informacje
 
-**Poziom użyteczności algorytmu:** *niski*
+**Poziom użyteczności tematu:** *niski*
 <!--niski/średni/wysoki-->
-**Wymagana znajomość tematów:** 
+**Wymaga znajomości:** 
 * *I/O w C++*
 <!--wymagane algorytmy, tematy z programowania itd.-->
 
