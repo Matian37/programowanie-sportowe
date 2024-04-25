@@ -6,7 +6,7 @@
 * *I/O w C++*
 <!--wymagane algorytmy, tematy z programowania itd.-->
 
-## Teoria
+# Teoria
 
 "Hello World!" jest to **ciąg znaków**.
 
@@ -18,7 +18,7 @@ Można ją wypisać za pomocą cout:
 cout << "Hello World!";
 `
 
-## Materiały
+# Materiały
 
 * GeeksForGeeks
   * [Teoria wraz z wytłumaczony kodem](https://www.geeksforgeeks.org/writing-first-c-program-hello-world-example/)
