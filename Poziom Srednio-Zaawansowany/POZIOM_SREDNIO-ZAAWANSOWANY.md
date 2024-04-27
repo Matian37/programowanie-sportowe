@@ -69,7 +69,7 @@
     - algorytm kmr (-)
     - algorytm z (-)
 25. Backtracking i branch and bound (-)
-26. Maski bitowe + DP (-)
+26. Maski bitowe + dp (-)
 27. Drzewo falkowe (-)
 28. Inne algorytmy wyszukiwań (-)
 29. Teoria gier (-)
