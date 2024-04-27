@@ -34,8 +34,6 @@
 20. Technika skalowania (-)
 21. Dziel i zwyciężaj (-)
 22. Wstęp do programowania dynamicznego (-)
-    - podstawy programowania dynamicznego (-)
-    - problem plecakowy (-)
 23. Wstęp do teorii grafów (-)
 24. Przeszukiwanie grafów (dfs, bfs) (-)
 25. Równoległe wyszukiwanie binarne (-)
