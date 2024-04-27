@@ -1,4 +1,4 @@
-# spis treści poziomu średnio-zaawansowanego:
+# Spis treści poziomu średnio-zaawansowanego:
 
 1. Klasyczne problemy dp (-)
     - problem plecakowy (-)
