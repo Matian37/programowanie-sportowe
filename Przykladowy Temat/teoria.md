@@ -10,11 +10,15 @@
 
 ## Teoria
 
+### Ważne informacje
+
 "Hello World!" jest to **ciąg znaków**.
 
 > *Szalona informacja*
 
-Można ją wypisać za pomocą cout:
+### Rozwiązanie
+
+Można go wypisać za pomocą cout:
 
 `
 cout << "Hello World!";
