@@ -2,7 +2,7 @@
 
 Repo będzie zawierało materiały do nauki programowania sportowego dla trzech poziomów:
     
-- podstawowy
+- podstawowy (dla początkujących w algorytmice)
     
 - średnio-zaawansowany
     
