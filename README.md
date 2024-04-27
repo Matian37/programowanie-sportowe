@@ -1,4 +1,4 @@
-# Ogólne informacje
+# Programowanie Sportowe
 
 Repo będzie zawierało materiały do nauki programowania sportowego dla trzech poziomów:
     
