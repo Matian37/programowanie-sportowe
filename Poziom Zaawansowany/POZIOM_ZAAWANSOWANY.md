@@ -1,4 +1,4 @@
-# Spis treści poziomu Zaawansowanego:
+# Spis treści poziomu zaawansowanego:
 1. 2-SAT (-)
 2. Algorytmy randomizowane (-)
 3. Trwałe struktury danych (-)
