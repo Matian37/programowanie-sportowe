@@ -1,4 +1,4 @@
-# Hello World!
+# Hello world!
 
 ## Informacje
 
@@ -12,7 +12,7 @@
 
 ### Ważne informacje
 
-"Hello World!" jest to **ciąg znaków**.
+"Hello world!" jest to **ciąg znaków**.
 
 > *Szalona informacja*
 
@@ -21,7 +21,7 @@
 Można go wypisać za pomocą cout:
 
 `
-cout << "Hello World!";
+cout << "Hello world!";
 `
 
 ## Materiały
