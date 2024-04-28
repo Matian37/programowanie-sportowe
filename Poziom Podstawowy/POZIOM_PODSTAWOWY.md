@@ -10,7 +10,7 @@
     - przez zliczanie (-)
 6. Podstawy teorii liczb (-)
     - algorytm euklidesa (-)
-    - sito erastotensea (-)
+    - sito erastotenesa (-)
     - faktoryzacja liczb (-)
     - znajdowanie dzielników i testy pierwszości (-)
     - podstawy arytmetyki modulo (-)
