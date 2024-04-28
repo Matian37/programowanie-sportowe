@@ -83,6 +83,7 @@
 33. Rozbicie przez centroid (-)
 34. Potęgowanie macierzy (-)
 35. Heavy-light decomposition (-)
+36. 2-SAT (-)
 
 ## oznaczenia
 - (-) brak materiałów,
