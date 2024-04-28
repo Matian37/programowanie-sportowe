@@ -35,8 +35,7 @@
 21. Dziel i zwyciężaj (-)
 22. Wstęp do programowania dynamicznego (-)
 23. Wstęp do teorii grafów (-)
-24. Przeszukiwanie grafów (dfs, bfs) (-)
-25. Równoległe wyszukiwanie binarne (-)
+24. Równoległe wyszukiwanie binarne (-)
 
 # Oznaczenia
 - (-) brak materiałów
