@@ -21,7 +21,7 @@
 9. Stos, kolejka, lista (-)
 10. Algorytm gąsienicy (-)
 11. Wyszukiwanie binarne (-)
-12. System liczbowe i sposoby zapisu liczb (-)
+12. System liczbowe i operacje bitowe (-)
 13. Szybkie potęgowanie (-)
 14. Wyszukiwanie binarne po wyniku (-)
 15. Drzewa i kopiec (-)
