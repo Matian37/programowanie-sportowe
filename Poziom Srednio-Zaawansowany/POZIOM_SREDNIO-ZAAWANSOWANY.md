@@ -1,16 +1,5 @@
 # Poziom średnio-zaawansowany:
 
-## Oznaczenia
-### Przydatność
-- \*\*\*\* - wysoka
-- \*\*\* - średnia
-- \*\* - niska
-- \* - zerowa
-
-### Status ukończenia
-- (-) brak materiałów,
-- (#) materiały częściowo dodane
-- *brak nawiasu* materiał w pełni dodany
 ## Spis treści
 1. Klasyczne problemy dp (-)
     - problem plecakowy (-)
