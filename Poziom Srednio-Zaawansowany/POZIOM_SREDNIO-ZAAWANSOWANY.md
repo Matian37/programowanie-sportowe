@@ -1,5 +1,17 @@
-# Spis treści poziomu średnio-zaawansowanego:
+# Poziom średnio-zaawansowany:
 
+## Oznaczenia
+### Przydatność
+- \*\*\*\* - wysoka
+- \*\*\* - średnia
+- \*\* - niska
+- \* - zerowa
+
+### Status ukończenia
+- (-) brak materiałów,
+- (#) materiały częściowo dodane
+- *brak nawiasu* materiał w pełni dodany
+## Spis treści
 1. Klasyczne problemy dp (-)
     - problem plecakowy (-)
     - najdłuższy rosnący podciąg (-)
@@ -84,7 +96,3 @@
 34. Potęgowanie macierzy (-)
 35. Heavy-light decomposition (-)
 36. 2-SAT (-)
-
-## oznaczenia
-- (-) brak materiałów,
-- (#) materiały częściowo dodane
