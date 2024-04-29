@@ -1,4 +1,5 @@
-# Spis treści poziomu zaawansowanego:
+# Poziomu zaawansowany
+## Spis treści
 1. Algorytmy randomizowane (-)
 2. Algorytmy przepływowe (-)
 3. Grafy planarne (-)
