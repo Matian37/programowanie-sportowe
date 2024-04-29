@@ -1,43 +1,42 @@
 # Poziom podstawowy
+## Oznaczenia
+- [ ] *brak materiałów*
+- [X] *materiały dodane*
 ## Spis treści
-1. Zliczanie (-)
-2. Sumy prefiksowe (-)
-3. Złożoności algorytmów (-)
-4. Algorytm kadane (-)
-5. Sortowania (-)
-    - bąbelkowe (-)
-    - przez wstawianie (-)
-    - przez wybieranie (-)
-    - przez zliczanie (-)
-6. Podstawy teorii liczb (-)
-    - algorytm euklidesa (-)
-    - sito erastotenesa (-)
-    - faktoryzacja liczb (-)
-    - znajdowanie dzielników i testy pierwszości (-)
-    - podstawy arytmetyki modulo (-)
-7. Wstęp do algorytmów tekstowych (-)
-8. Znajdowanie lidera w ciągu (-)
-    - w złożoności O(n) (-)
-    - w złożoności O(n log n) (-)
-9. Stos, kolejka, lista (-)
-10. Algorytm gąsienicy (-)
-11. Wyszukiwanie binarne (-)
-12. System liczbowe i operacje bitowe (-)
-13. Szybkie potęgowanie (-)
-14. Wyszukiwanie binarne po wyniku (-)
-15. Drzewa i kopiec (-)
-16. Drzewo poszukiwań binarnych bst (-)
-17. Sortowanie z rekurencją
-    - quicksort (-)
-    - mergesort (-)
-18. Znajdowanie k-tego elementu w ciągu (-)
-19. Programowanie zachłanne (-)
-20. Technika skalowania (-)
-21. Dziel i zwyciężaj (-)
-22. Wstęp do programowania dynamicznego (-)
-23. Wstęp do teorii grafów (-)
-24. Równoległe wyszukiwanie binarne (-)
-
-# Oznaczenia
-- (-) brak materiałów
-- (#) materiały częściowo dodane
+- [ ] Zliczanie
+- [ ] Sumy prefiksowe
+- [ ] Złożoności algorytmów
+- [ ] Algorytm kadane
+- [ ] Sortowania
+    - [ ] bąbelkowe
+    - [ ] przez wstawianie
+    - [ ] przez wybieranie
+    - [ ] przez zliczanie
+- [ ] Podstawy teorii liczb
+    - [ ] algorytm euklidesa
+    - [ ] sito erastotenesa
+    - [ ] faktoryzacja liczb
+    - [ ] znajdowanie dzielników i testy pierwszości
+    - [ ] podstawy arytmetyki modulo
+- [ ] Wstęp do algorytmów tekstowych
+- [ ] Znajdowanie lidera w ciągu
+    - [ ] w złożoności O(n)
+    - [ ] w złożoności O(n log n)
+- [ ] Stos, kolejka, lista
+- [ ] Algorytm gąsienicy
+- [ ] Wyszukiwanie binarne
+- [ ] System liczbowe i operacje bitowe
+- [ ] Szybkie potęgowanie
+- [ ] Wyszukiwanie binarne po wyniku
+- [ ] Drzewa i kopiec
+- [ ] Drzewo poszukiwań binarnych bst
+- [ ] Sortowanie z rekurencją
+    - [ ] quicksort
+    - [ ] mergesort
+- [ ] Znajdowanie k-tego elementu w ciągu
+- [ ] Programowanie zachłanne
+- [ ] Technika skalowania
+- [ ] Dziel i zwyciężaj
+- [ ] Wstęp do programowania dynamicznego
+- [ ] Wstęp do teorii grafów
+- [ ] Równoległe wyszukiwanie binarne
