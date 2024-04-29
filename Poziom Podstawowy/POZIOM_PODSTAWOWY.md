@@ -1,4 +1,5 @@
-# Spis treści poziomu podstawowego:
+# Poziom podstawowy
+## Spis treści
 1. Zliczanie (-)
 2. Sumy prefiksowe (-)
 3. Złożoności algorytmów (-)
