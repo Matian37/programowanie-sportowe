@@ -1,7 +1,10 @@
 # Poziom średnio-zaawansowany
 ## Oznaczenia
-- [ ] *brak materiałów*
-- [X] *materiały dodane*
+- tematy dodatkowe:
+  - ◇ nieprzydatne
+  - ◆ trudne względem pozycji
+- - [ ] *brak materiałów*
+- - [X] *materiały dodane*
 ## Spis treści
 - [ ] Klasyczne problemy dp 
     - [ ] problem plecakowy 
@@ -22,14 +25,14 @@
 - [ ] Minimalne drzewo rozpinające 
     - [ ] algorytm prima 
     - [ ] algorytm kruskala 
-    - [ ] algorytm borůvki 
+    - [ ] algorytm borůvki ◇
 - [ ] Algorytmy najkrótszej ścieżki 
     - [ ] algorytm dijkstry 
     - [ ] algorytm bellmana-forda 
     - [ ] algorytm spfa 
     - [ ] algorytm floyda-warshalla 
-    - [ ] algorytm johnsona 
-    - [ ] algorytm a* 
+    - [ ] algorytm johnsona ◇
+    - [ ] algorytm a* ◇
 - [ ] Sparse table 
 - [ ] Technika euler toura 
 - [ ] LCA 
@@ -51,9 +54,9 @@
     - [ ] zamiatanie 
     - [ ] sortowanie kątowe 
     - [ ] otoczka wypukła 
-    - [ ] para najbliższych 
+    - [ ] para najbliższych punktów
     - [ ] para najdalszych punktów 
-    - [ ] struktury danych 
+    - [ ] struktury danych ◆ 
 - [ ] Haszowanie 
     - [ ] haszowanie stringów 
     - [ ] hashmapy 
@@ -61,16 +64,16 @@
 - [ ] Algorytmy tekstowe 
     - [ ] algorytm booyer'a moora 
     - [ ] algorytm rabina-karpa 
-    - [ ] pojęcia i kmp 
+    - [ ] wstępne pojęcia i kmp 
     - [ ] drzewo trie 
     - [ ] porównywanie tekstów z aktualizacjami 
-    - [ ] algorytm manachera 
+    - [ ] algorytm manachera ◇
     - [ ] algorytm kmr 
-    - [ ] algorytm z 
+    - [ ] algorytm z ◇
 - [ ] Backtracking i branch and bound 
 - [ ] Maski bitowe + dp 
 - [ ] Drzewo falkowe 
-- [ ] Inne algorytmy wyszukiwań 
+- [ ] Inne algorytmy wyszukiwań ◇
 - [ ] Teoria gier 
     - [ ] strategie w grach i w rozwiązywaniu zadań 
     - [ ] twierdzenie sprague-grundy'ego 
