@@ -1,8 +1,8 @@
 # Poziom średnio-zaawansowany
 ## Oznaczenia
 - tematy dodatkowe:
-  - ◇ nieprzydatne
-  - ◆ trudne względem pozycji
+  - ◇ *nieprzydatne*
+  - ◆ *trudne względem poziomu*
 - - [ ] *brak materiałów*
 - - [X] *materiały dodane*
 ## Spis treści
