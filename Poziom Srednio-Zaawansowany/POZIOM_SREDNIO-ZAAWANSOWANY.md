@@ -1,8 +1,6 @@
 # Poziom średnio-zaawansowany
 ## Oznaczenia
-- tematy dodatkowe:
-  - ◇ *nieprzydatne*
-  - ◆ *trudne względem poziomu*
+- ◇ *tematy nieprzydatne*
 - - [ ] *brak materiałów*
 - - [X] *materiały dodane*
 ## Spis treści
@@ -56,7 +54,6 @@
     - [ ] otoczka wypukła 
     - [ ] para najbliższych punktów
     - [ ] para najdalszych punktów 
-    - [ ] struktury danych ◆ 
 - [ ] Haszowanie 
     - [ ] haszowanie stringów 
     - [ ] hashmapy 
