@@ -1,7 +1,11 @@
 # Poziom podstawowy
 ## Oznaczenia
-- [ ] *brak materiałów*
-- [X] *materiały dodane*
+- ◇◇◇ *temat nieprzydatny*
+- ◆◇◇ *temat okazjonalnie przydatny*
+- ◆◆◇ *temat przydatny*
+- ◆◆◆ *temat ważny*
+- - [ ] *brak materiałów*
+- - [X] *materiały dodane*
 ## Spis treści
 - [ ] Zliczanie
 - [ ] Sumy prefiksowe
