@@ -1,9 +1,5 @@
 # Poziom podstawowy
 ## Oznaczenia
-- ◇◇◇ *temat nieprzydatny*
-- ◆◇◇ *temat okazjonalnie przydatny*
-- ◆◆◇ *temat przydatny*
-- ◆◆◆ *temat ważny*
 - - [ ] *brak materiałów*
 - - [X] *materiały dodane*
 ## Spis treści
@@ -11,7 +7,7 @@
 - [ ] Sumy prefiksowe
 - [ ] Złożoności algorytmów
 - [ ] Algorytm kadane
-- [ ] Sortowania
+- [ ] Sortowanie
     - [ ] bąbelkowe
     - [ ] przez wstawianie
     - [ ] przez wybieranie
