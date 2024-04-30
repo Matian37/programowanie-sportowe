@@ -1,31 +1,30 @@
 # Poziomu zaawansowany
-## Spis treści
-1. Algorytmy randomizowane (-)
-2. Algorytmy przepływowe (-)
-3. Grafy planarne (-)
-4. Skojarzenia w grafach (-)
-5. Problemy NP (-)
-6. Trwałe struktury danych (-)
-7. Usuwanie offline (-)
-8. Zaawansowana teoria liczb (-)
-   - algorytm rho pollarda (-)
-   - chińskie twierdzenie o resztach (-)
-   - binarne gcd (-)
-   - zaawansowana arytmetyka modulo (-)
-   - trik z pierwiastkiem sześciennym (-)
-9. Zaawansowany DP (-)
-   - slope trick (-)
-   - convex hull trick (-)
-   - optymalizacja z dziel i zwyciężaj (-)
-   - optymalizacja knutha (-)
-   - sum over subsets (-)
-10. Zaawansowane algorytmy tekstowe (-)
-    - tablica sufiksowa (-)
-    - suffix automata (-)
-    - drzewo sufiksowe (-)
-    - drzewo palindromiczne (-)
-    - aho corasick (-)
-
 ## Oznaczenia
-- (-) brak materiałów,
-- (#) materiały częściowo dodane
+- [ ] *brak materiałów*
+- [X] *materiały dodane*
+## Spis treści
+- [ ] Algorytmy randomizowane
+- [ ] Algorytmy przepływowe
+- [ ] Grafy planarne
+- [ ] Skojarzenia w grafach
+- [ ] Problemy NP
+- [ ] Trwałe struktury danych
+- [ ] Usuwanie offline
+- [ ] Zaawansowana teoria liczb
+   - [ ] algorytm rho pollarda
+   - [ ] chińskie twierdzenie o resztach
+   - [ ] binarne gcd
+   - [ ] zaawansowana arytmetyka modulo
+   - [ ] trik z pierwiastkiem sześciennym
+- [ ] Zaawansowany DP
+   - [ ] slope trick
+   - [ ] convex hull trick
+   - [ ] optymalizacja z dziel i zwyciężaj
+   - [ ] optymalizacja knutha
+   - [ ] sum over subsets
+- [ ] Zaawansowane algorytmy tekstowe
+    - [ ] tablica sufiksowa
+    - [ ] suffix automata
+    - [ ] drzewo sufiksowe
+    - [ ] drzewo palindromiczne
+    - [ ] aho corasick
