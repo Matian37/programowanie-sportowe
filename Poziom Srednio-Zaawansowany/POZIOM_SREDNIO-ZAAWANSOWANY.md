@@ -1,4 +1,4 @@
-# Poziom średnio-zaawansowany:
+# Poziom średnio-zaawansowany
 
 ## Spis treści
 1. Klasyczne problemy dp (-)
