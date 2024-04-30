@@ -48,7 +48,7 @@
 - [ ] Dynamiki na cyfrach oraz przedziałach  
 - [ ] Geometria obliczeniowa 
     - [ ] podstawy geometrii 
-    - [ ] wielokąty <!-- ważne: podczas tworzenia dodać rotating caliphers method do materiałów-->
+    - [ ] wielokąty
     - [ ] zamiatanie 
     - [ ] sortowanie kątowe 
     - [ ] otoczka wypukła 
