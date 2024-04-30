@@ -28,3 +28,4 @@
     - [ ] drzewo sufiksowe
     - [ ] drzewo palindromiczne
     - [ ] aho corasick
+- [ ] Geometryczne struktury danych
