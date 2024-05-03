@@ -1,7 +1,7 @@
 # Poziom podstawowy
 ## Oznaczenia
 - - [ ] *brak materiałów*
-- - [X] *materiały dodane*
+- - [X] *materiały nie/częściowo dodane*
 ## Spis treści
 - [ ] Zliczanie
 - [ ] Sumy prefiksowe
