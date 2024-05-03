@@ -29,3 +29,4 @@
     - [ ] drzewo palindromiczne
     - [ ] aho corasick
 - [ ] Geometryczne struktury danych
+- [ ] Wielomiany i FFT
