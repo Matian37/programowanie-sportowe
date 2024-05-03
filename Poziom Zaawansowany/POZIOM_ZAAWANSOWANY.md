@@ -1,6 +1,6 @@
 # Poziomu zaawansowany
 ## Oznaczenia
-- [ ] *brak materiałów*
+- [ ] *materiałów nie/częściowo dodane*
 - [X] *materiały dodane*
 ## Spis treści
 - [ ] Algorytmy randomizowane
