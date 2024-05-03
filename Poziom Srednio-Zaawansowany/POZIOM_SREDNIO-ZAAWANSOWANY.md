@@ -1,7 +1,7 @@
 # Poziom średnio-zaawansowany
 ## Oznaczenia
 - ◇ *tematy nieprzydatne*
-- - [ ] *materiałów nie/częściowo dodane*
+- - [ ] *materiały nie/częściowo dodane*
 - - [X] *materiały dodane*
 ## Spis treści
 - [ ] Klasyczne problemy dp 
