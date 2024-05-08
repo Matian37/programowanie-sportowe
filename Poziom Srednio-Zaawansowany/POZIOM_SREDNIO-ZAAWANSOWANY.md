@@ -29,8 +29,8 @@
     - [ ] algorytm bellmana-forda 
     - [ ] algorytm spfa 
     - [ ] algorytm floyda-warshalla 
-    - [ ] algorytm johnsona ◇
-    - [ ] algorytm a* ◇
+    - [ ] algorytm johnsona
+    - [ ] algorytm a*
 - [ ] Sparse table 
 - [ ] Technika euler toura 
 - [ ] LCA 
@@ -64,13 +64,13 @@
     - [ ] wstępne pojęcia i kmp 
     - [ ] drzewo trie 
     - [ ] porównywanie tekstów z aktualizacjami 
-    - [ ] algorytm manachera ◇
+    - [ ] algorytm manachera
     - [ ] algorytm kmr 
     - [ ] algorytm z ◇
 - [ ] Backtracking i branch and bound 
 - [ ] Maski bitowe + dp 
 - [ ] Drzewo falkowe 
-- [ ] Inne algorytmy wyszukiwań ◇
+- [ ] Inne algorytmy wyszukiwań
 - [ ] Teoria gier 
     - [ ] strategie w grach i w rozwiązywaniu zadań 
     - [ ] twierdzenie sprague-grundy'ego 
