@@ -71,6 +71,7 @@
 - [ ] Maski bitowe + dp 
 - [ ] Drzewo falkowe 
 - [ ] Inne algorytmy wyszukiwań
+- [ ] Sum over subsets dp
 - [ ] Teoria gier 
     - [ ] strategie w grach i w rozwiązywaniu zadań 
     - [ ] twierdzenie sprague-grundy'ego 
