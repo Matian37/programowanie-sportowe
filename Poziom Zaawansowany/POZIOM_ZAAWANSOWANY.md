@@ -21,7 +21,6 @@
    - [ ] convex hull trick
    - [ ] optymalizacja z dziel i zwyciężaj
    - [ ] optymalizacja knutha
-   - [ ] sum over subsets
 - [ ] Zaawansowane algorytmy tekstowe
     - [ ] tablica sufiksowa
     - [ ] suffix automata
