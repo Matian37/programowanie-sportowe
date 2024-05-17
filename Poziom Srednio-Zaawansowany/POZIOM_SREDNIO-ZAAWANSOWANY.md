@@ -1,5 +1,4 @@
 # Poziom średnio-zaawansowany
-## Oznaczenia
 - **Status materiałów:**
   - - [ ] — *brak/część materiałów*
   - - [X] — *wszystkie materiały dodane*
