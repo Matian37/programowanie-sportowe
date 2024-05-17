@@ -1,9 +1,9 @@
 # Poziom podstawowy
 ## Oznaczenia
-- Status materiałów:
+- **Status materiałów:**
   - - [ ] — *brak/część materiałów*
   - - [X] — *wszystkie materiały dodane*
-- Temat:
+- **Temat:**
   - ☆☆☆ — *nieprzydatny*
   - ★☆☆ — *raczej nieprzydatny*
   - ★★☆ — *raczej przydatny*
