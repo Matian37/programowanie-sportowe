@@ -4,7 +4,7 @@ Repo będzie zawierało materiały do nauki programowania sportowego dla trzech 
     
 - **podstawowy** (dla początkujących w algorytmice)
     
-- **średnio-zaawansowany**
+- **średnio-zaawansowany** (dla przygotowujących się do OI)
     
 - **zaawansowany**
     
