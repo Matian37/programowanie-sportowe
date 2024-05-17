@@ -1,18 +1,15 @@
 # Hello world!
 
-## Informacje
-
 **Poziom użyteczności tematu:** *niski*
 <!--niski/średni/wysoki-->
-**Wymaga znajomości:** 
-* *I/O w C++*
+**Wymaga znajomości:** *I/O w C++*
 <!--wymagane algorytmy, tematy z programowania itd.-->
 
 ## Teoria
 
-### Ważne informacje
-
 "Hello world!" jest to **ciąg znaków**.
+
+### Ważne informacje
 
 > *Szalona informacja*
 
