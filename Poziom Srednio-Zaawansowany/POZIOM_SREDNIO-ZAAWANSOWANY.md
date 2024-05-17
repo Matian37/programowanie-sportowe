@@ -1,90 +1,96 @@
 # Poziom średnio-zaawansowany
 ## Oznaczenia
-- ◇ *tematy nieprzydatne*
-- - [ ] *materiały nie/częściowo dodane*
-- - [X] *materiały dodane*
+- **Status materiałów:**
+  - - [ ] — *brak/część materiałów*
+  - - [X] — *wszystkie materiały dodane*
+- **Temat:**
+  - ☆☆☆ — *nieprzydatny*
+  - ★☆☆ — *raczej nieprzydatny*
+  - ★★☆ — *raczej przydatny*
+  - ★★★ — *przydatny*
 ## Spis treści
-- [ ] Klasyczne problemy dp 
-    - [ ] problem plecakowy 
-    - [ ] najdłuższy rosnący podciąg 
-    - [ ] najdłuższy wspólny podciąg 
-- [ ] Drzewo fenwicka 
-- [ ] Drzewa przedziałowe 
-- [ ] DAG i sortowanie topologiczne 
-- [ ] Silne spójne składowe: 
-    - [ ] algorytm kosajru 
-    - [ ] algorytm tarjana 
-- [ ] Technika small-to-large merging 
-- [ ] Sumy prefiksowe 2D 
-- [ ] Find and union 
-- [ ] Ścieżka i cykl eulera 
-- [ ] Analiza kosztu zamortyzowanego 
-- [ ] Aktualizowanie poddrzew 
-- [ ] Minimalne drzewo rozpinające 
-    - [ ] algorytm prima 
-    - [ ] algorytm kruskala 
-    - [ ] algorytm borůvki ◇
-- [ ] Algorytmy najkrótszej ścieżki 
-    - [ ] algorytm dijkstry 
-    - [ ] algorytm bellmana-forda 
-    - [ ] algorytm spfa 
-    - [ ] algorytm floyda-warshalla 
-    - [ ] algorytm johnsona
-    - [ ] algorytm a*
-- [ ] Sparse table 
-- [ ] Technika euler toura 
-- [ ] LCA 
-    - [ ] przy użyciu jump pointerów 
-    - [ ] przy użyciu euler toura 
-    - [ ] algorytm tarjana 
-- [ ] Pierwiastki 
-    - [ ] dekompozycja na pierwiastki 
-    - [ ] aktualizacja co pierwiastek 
-    - [ ] technika light and heavy 
-    - [ ] algorytm mo 
-- [ ] Kolejka monotoniczna 
-- [ ] Przyśpieszanie dynamików 
-- [ ] Dynamiki na drzewach + technika przekorzeniania 
-- [ ] Dynamiki na cyfrach oraz przedziałach  
-- [ ] Geometria obliczeniowa 
-    - [ ] podstawy geometrii 
-    - [ ] wielokąty
-    - [ ] zamiatanie 
-    - [ ] sortowanie kątowe 
-    - [ ] otoczka wypukła 
-    - [ ] para najbliższych punktów
-    - [ ] para najdalszych punktów 
-- [ ] Haszowanie 
-    - [ ] haszowanie stringów 
-    - [ ] hashmapy 
-    - [ ] inne ciekawe zastosowania 
-- [ ] Algorytmy tekstowe 
-    - [ ] algorytm booyer'a moora 
-    - [ ] algorytm rabina-karpa 
-    - [ ] wstępne pojęcia i kmp 
-    - [ ] drzewo trie 
-    - [ ] porównywanie tekstów z aktualizacjami 
-    - [ ] algorytm manachera
-    - [ ] algorytm kmr 
-    - [ ] algorytm z ◇
-- [ ] Backtracking i branch and bound 
-- [ ] Maski bitowe + dp 
-- [ ] Drzewo falkowe 
-- [ ] Inne algorytmy wyszukiwań
+- [ ] Klasyczne problemy dp ★★★
+    - [ ] problem plecakowy  ★★★
+    - [ ] najdłuższy rosnący podciąg ★★☆
+    - [ ] najdłuższy wspólny podciąg ★★☆
+- [ ] Drzewo fenwicka ★★★
+- [ ] Drzewa przedziałowe ★★★
+- [ ] DAG i sortowanie topologiczne ★★★
+- [ ] Silne spójne składowe: ★★★
+    - [ ] algorytm kosajru ★★★
+    - [ ] algorytm tarjana ★★★
+- [ ] Technika small-to-large merging ★★☆
+- [ ] Sumy prefiksowe 2D ★★★
+- [ ] Find and union ★★★
+- [ ] Ścieżka i cykl eulera ★★★
+- [ ] Analiza kosztu zamortyzowanego ★★☆
+- [ ] Aktualizowanie poddrzew ★★☆
+- [ ] Minimalne drzewo rozpinające ★★☆
+    - [ ] algorytm prima ★★☆
+    - [ ] algorytm kruskala ★★☆
+    - [ ] algorytm borůvki ☆☆☆
+- [ ] Algorytmy najkrótszej ścieżki ★★★
+    - [ ] algorytm dijkstry ★★★
+    - [ ] algorytm bellmana-forda oraz spfa ★★☆
+    - [ ] algorytm floyda-warshalla ★★☆
+    - [ ] algorytm johnsona ★☆☆
+    - [ ] algorytm a* ★☆☆
+- [ ] Sparse table ★★★
+- [ ] Technika euler toura ★★☆
+- [ ] LCA ★★★
+    - [ ] przy użyciu jump pointerów ★★★
+    - [ ] przy użyciu euler toura ★★★
+    - [ ] algorytm tarjana ★★★
+- [ ] Pierwiastki ★★★
+    - [ ] dekompozycja na pierwiastki ★★★
+    - [ ] aktualizacja co pierwiastek ★★☆
+    - [ ] technika light and heavy ★★★
+    - [ ] algorytm mo ★★★
+- [ ] Kolejka monotoniczna ★★☆
+- [ ] Przyśpieszanie dynamików ★★★
+- [ ] Dynamiki na drzewach + technika przekorzeniania ★★★
+- [ ] Dynamiki na cyfrach oraz przedziałach  ★★☆
+- [ ] Geometria obliczeniowa ★★★
+    - [ ] podstawy geometrii ★★★
+    - [ ] wielokąty ★★★
+    - [ ] zamiatanie ★★★
+    - [ ] sortowanie kątowe ★★★
+    - [ ] otoczka wypukła ★★★
+    - [ ] para najbliższych punktów ★★☆
+    - [ ] para najdalszych punktów ★★☆
+- [ ] Haszowanie ★★★
+    - [ ] haszowanie stringów ★★★
+    - [ ] hashmapy ★★★
+    - [ ] inne ciekawe zastosowania ★★★
+- [ ] Algorytmy tekstowe ★★★
+    - [ ] algorytm booyer'a moora ★☆☆
+    - [ ] algorytm rabina-karpa ★★★
+    - [ ] wstępne pojęcia i kmp ★★★
+    - [ ] drzewo trie ★★★
+    - [ ] porównywanie tekstów z aktualizacjami ★★☆
+    - [ ] algorytm manachera ★☆☆
+    - [ ] algorytm kmr ★☆☆
+    - [ ] algorytm z ☆☆☆
+- [ ] Maski bitowe + dp ★★★
+- [ ] Algorytmy brutalne ★★☆
+  - [ ] Backtracking + pisanie brutów ★★★
+  - [ ] Branch and bound ★☆☆
+- [ ] Drzewo falkowe ★★★
+- [ ] Inne algorytmy wyszukiwań ★☆☆
 - [ ] Sum over subsets dp
-- [ ] Teoria gier 
-    - [ ] strategie w grach i w rozwiązywaniu zadań 
-    - [ ] twierdzenie sprague-grundy'ego 
-- [ ] Teoria liczb 
-    - [ ] arytmetyka modulo 
-    - [ ] sito liniowe 
+- [ ] Teoria gier ★★★
+    - [ ] strategie w grach i w rozwiązywaniu zadań ★★★
+    - [ ] twierdzenie sprague-grundy'ego ★★★
+- [ ] Teoria liczb ★★★
+    - [ ] arytmetyka modulo ★★★
+    - [ ] sito liniowe ★★☆
     - [ ] funkcja eulera 
-    - [ ] testy pierwszości 
-    - [ ] rozszerzony algorytm euklidesa 
-    - [ ] bardzo duże liczby 
-- [ ] Funkcja low 
-- [ ] Meet in the middle 
-- [ ] Rozbicie przez centroid 
-- [ ] Potęgowanie macierzy 
-- [ ] Heavy-light decomposition 
-- [ ] 2-SAT 
+    - [ ] testy pierwszości ★★★
+    - [ ] rozszerzony algorytm euklidesa ★★☆
+    - [ ] bardzo duże liczby ★★☆
+- [ ] Funkcja low ★★☆
+- [ ] Meet in the middle ★☆☆
+- [ ] Rozbicie przez centroid ★★☆
+- [ ] Potęgowanie macierzy ★★★
+- [ ] Heavy-light decomposition ★★☆
+- [ ] 2-SAT ★★★
