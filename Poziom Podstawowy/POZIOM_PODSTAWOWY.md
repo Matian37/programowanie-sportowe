@@ -14,20 +14,21 @@
 - [ ] Złożoności algorytmów ★★★
 - [ ] Algorytm kadane ★☆☆
 - [ ] Sortowanie ★★★
-    - [ ] bąbelkowe
-    - [ ] przez wstawianie
-    - [ ] przez wybieranie
-    - [ ] przez zliczanie
+    - [ ] bąbelkowe ★★☆
+    - [ ] przez wstawianie ★☆☆
+    - [ ] przez wybieranie ★☆☆
+    - [ ] przez zliczanie ★★☆
+    - [ ] sortowanie w C++ ★★★
 - [ ] Podstawy teorii liczb ★★★
-    - [ ] algorytm euklidesa
-    - [ ] sito erastotenesa
-    - [ ] faktoryzacja liczb
-    - [ ] znajdowanie dzielników i testy pierwszości
-    - [ ] podstawy arytmetyki modulo
+    - [ ] algorytm euklidesa ★★★
+    - [ ] sito erastotenesa ★★★
+    - [ ] faktoryzacja liczb ★★★
+    - [ ] znajdowanie dzielników i testy pierwszości ★★★
+    - [ ] podstawy arytmetyki modulo ★★★
 - [ ] Wstęp do algorytmów tekstowych ★★★
 - [ ] Znajdowanie lidera w ciągu ★☆☆
-    - [ ] w złożoności O(n)
-    - [ ] w złożoności O(n log n)
+    - [ ] w złożoności O(n) ★☆☆
+    - [ ] w złożoności O(n log n) ★☆☆
 - [ ] Stos, kolejka, lista ★★★
 - [ ] Algorytm gąsienicy ★★☆
 - [ ] Wyszukiwanie binarne ★★★
@@ -35,11 +36,12 @@
 - [ ] Szybkie potęgowanie ★★★
 - [ ] Wyszukiwanie binarne po wyniku ★★★
 - [ ] Drzewa, kopiec, kolejka priorytetowa ★★★
-- [ ] Drzewo poszukiwań binarnych (BST) ★☆☆
+- [ ] Drzewo poszukiwań binarnych ★☆☆
 - [ ] Sortowanie z rekurencją ★★★
-    - [ ] quicksort
-    - [ ] mergesort
+    - [ ] quicksort ★★★
+    - [ ] mergesort ★★★
 - [ ] Znajdowanie k-tego elementu w ciągu ★☆☆
+  - [ ] quickselect ★☆☆
 - [ ] Programowanie zachłanne ★★★
 - [ ] Technika skalowania ★★★
 - [ ] Dziel i zwyciężaj ★★☆
