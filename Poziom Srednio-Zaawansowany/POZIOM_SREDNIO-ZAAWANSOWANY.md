@@ -82,9 +82,9 @@
     - [ ] strategie w grach i w rozwiązywaniu zadań ★★★
     - [ ] twierdzenie sprague-grundy'ego ★★★
 - [ ] Teoria liczb ★★★
+    - [ ] funckja eulera oraz funkcja sigma ★★☆
     - [ ] arytmetyka modulo ★★★
     - [ ] sito liniowe ★★☆
-    - [ ] funkcja eulera 
     - [ ] testy pierwszości ★★★
     - [ ] rozszerzony algorytm euklidesa ★★☆
     - [ ] bardzo duże liczby ★★☆
