@@ -9,40 +9,40 @@
   - ★★☆ — *raczej przydatny*
   - ★★★ — *przydatny*
 ## Spis treści
-- [ ] Zliczanie
-- [ ] Sumy prefiksowe
-- [ ] Złożoności algorytmów
-- [ ] Algorytm kadane
-- [ ] Sortowanie
+- [ ] Zliczanie ★★★
+- [ ] Sumy prefiksowe ★★★
+- [ ] Złożoności algorytmów ★★★
+- [ ] Algorytm kadane ★☆☆
+- [ ] Sortowanie ★★★
     - [ ] bąbelkowe
     - [ ] przez wstawianie
     - [ ] przez wybieranie
     - [ ] przez zliczanie
-- [ ] Podstawy teorii liczb
+- [ ] Podstawy teorii liczb ★★★
     - [ ] algorytm euklidesa
     - [ ] sito erastotenesa
     - [ ] faktoryzacja liczb
     - [ ] znajdowanie dzielników i testy pierwszości
     - [ ] podstawy arytmetyki modulo
-- [ ] Wstęp do algorytmów tekstowych
-- [ ] Znajdowanie lidera w ciągu
+- [ ] Wstęp do algorytmów tekstowych ★★★
+- [ ] Znajdowanie lidera w ciągu ★☆☆
     - [ ] w złożoności O(n)
     - [ ] w złożoności O(n log n)
-- [ ] Stos, kolejka, lista
-- [ ] Algorytm gąsienicy
-- [ ] Wyszukiwanie binarne
-- [ ] System liczbowe i operacje bitowe
-- [ ] Szybkie potęgowanie
-- [ ] Wyszukiwanie binarne po wyniku
-- [ ] Drzewa i kopiec
-- [ ] Drzewo poszukiwań binarnych bst
-- [ ] Sortowanie z rekurencją
+- [ ] Stos, kolejka, lista ★★★
+- [ ] Algorytm gąsienicy ★★☆
+- [ ] Wyszukiwanie binarne ★★★
+- [ ] System liczbowe i operacje bitowe ★★★
+- [ ] Szybkie potęgowanie ★★★
+- [ ] Wyszukiwanie binarne po wyniku ★★★
+- [ ] Drzewa, kopiec, kolejka priorytetowa ★★★
+- [ ] Drzewo poszukiwań binarnych (BST) ★☆☆
+- [ ] Sortowanie z rekurencją ★★★
     - [ ] quicksort
     - [ ] mergesort
-- [ ] Znajdowanie k-tego elementu w ciągu
-- [ ] Programowanie zachłanne
-- [ ] Technika skalowania
-- [ ] Dziel i zwyciężaj
-- [ ] Wstęp do programowania dynamicznego
-- [ ] Wstęp do teorii grafów
-- [ ] Równoległe wyszukiwanie binarne
+- [ ] Znajdowanie k-tego elementu w ciągu ★☆☆
+- [ ] Programowanie zachłanne ★★★
+- [ ] Technika skalowania ★★★
+- [ ] Dziel i zwyciężaj ★★☆
+- [ ] Wstęp do programowania dynamicznego ★★★
+- [ ] Wstęp do teorii grafów ★★★
+- [ ] Równoległe wyszukiwanie binarne ★☆☆
