@@ -1,13 +1,4 @@
 # Poziom podstawowy
-- **Status materiałów:**
-  - - [ ] — *brak/część materiałów*
-  - - [X] — *wszystkie materiały dodane*
-- **Temat:**
-  - ☆☆☆ — *nieprzydatny*
-  - ★☆☆ — *raczej nieprzydatny*
-  - ★★☆ — *raczej przydatny*
-  - ★★★ — *przydatny*
-## Spis treści
 - [ ] Zliczanie ★★★
 - [ ] Sumy prefiksowe ★★★
 - [ ] Złożoności algorytmów ★★★
