@@ -1,6 +1,6 @@
 # Hello world!
 
-**Wymaga znajomości:** *I/O w C++*
+**Wymaga znajomości:** *podstawy C++*
 <!--wymagane algorytmy, tematy z programowania itd.-->
 
 ## Teoria
