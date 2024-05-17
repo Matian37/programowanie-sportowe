@@ -72,12 +72,12 @@
     - [ ] algorytm kmr ★☆☆
     - [ ] algorytm z ☆☆☆
 - [ ] Maski bitowe + dp ★★★
-- [ ] Algorytmy brutalne ★★☆
+- [ ] Podejście brutalne ★★☆
   - [ ] Backtracking + pisanie brutów ★★★
   - [ ] Branch and bound ★☆☆
 - [ ] Drzewo falkowe ★★★
 - [ ] Inne algorytmy wyszukiwań ★☆☆
-- [ ] Sum over subsets dp
+- [ ] Sum over subsets dp ★★★
 - [ ] Teoria gier ★★★
     - [ ] strategie w grach i w rozwiązywaniu zadań ★★★
     - [ ] twierdzenie sprague-grundy'ego ★★★
