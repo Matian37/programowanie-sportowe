@@ -12,6 +12,16 @@ Na ten moment dodawane będą materiały związane głównie z algorytmami, stru
 
 Przykładowy temat znajduje się w [plikach](https://github.com/MateuszPietrowcow/programowanie-sportowe/tree/main/Przykladowy%20Temat).
 
+## Oznaczenia do spisów treści
+- **Status tematu:**
+  - - [ ] — *brak/część materiałów*
+  - - [X] — *wszystkie materiały dodane*
+- **Temat:**
+  - ☆☆☆ — *nieprzydatny*
+  - ★☆☆ — *raczej nieprzydatny*
+  - ★★☆ — *raczej przydatny*
+  - ★★★ — *przydatny*
+
 ## Zalecenia dotyczące nauki
 
 * przerabiaj tematy zgodnie z kolejnością w jakiej są podane
