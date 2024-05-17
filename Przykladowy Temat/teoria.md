@@ -1,7 +1,5 @@
 # Hello world!
 
-**Poziom użyteczności tematu:** *niski*
-<!--niski/średni/wysoki-->
 **Wymaga znajomości:** *I/O w C++*
 <!--wymagane algorytmy, tematy z programowania itd.-->
 
