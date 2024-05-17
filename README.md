@@ -18,9 +18,9 @@ Przykładowy temat znajduje się w [plikach](https://github.com/MateuszPietrowco
   - - [X] — *wszystkie materiały dodane*
 - **Temat:**
   - ☆☆☆ — *nieprzydatny*
-  - ★☆☆ — *raczej nieprzydatny*
-  - ★★☆ — *raczej przydatny*
-  - ★★★ — *przydatny*
+  - ★☆☆ — *minimalnie przydatny*
+  - ★★☆ — *średnio przydatny*
+  - ★★★ — *bardzo przydatny*
 
 ## Zalecenia dotyczące nauki
 
