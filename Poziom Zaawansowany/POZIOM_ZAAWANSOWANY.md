@@ -8,7 +8,7 @@
   - ★★☆ — *raczej przydatny*
   - ★★★ — *przydatny*
 ## Spis treści
-- [ ] Algorytmy randomizowane
+- [ ] Algorytmy randomizowane ★★★
 - [ ] Algorytmy przepływowe
 - [ ] Grafy planarne
 - [ ] Skojarzenia w grafach
