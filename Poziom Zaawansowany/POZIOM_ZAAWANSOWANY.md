@@ -1,13 +1,4 @@
 # Poziomu zaawansowany
-- **Status materiałów:**
-  - - [ ] — *brak/część materiałów*
-  - - [X] — *wszystkie materiały dodane*
-- **Temat:**
-  - ☆☆☆ — *nieprzydatny*
-  - ★☆☆ — *raczej nieprzydatny*
-  - ★★☆ — *raczej przydatny*
-  - ★★★ — *przydatny*
-## Spis treści
 - [ ] Algorytmy randomizowane ★★★
 - [ ] Algorytmy przepływowe
 - [ ] Grafy planarne
