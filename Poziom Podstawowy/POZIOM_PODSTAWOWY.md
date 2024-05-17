@@ -1,5 +1,4 @@
 # Poziom podstawowy
-## Oznaczenia
 - **Status materiałów:**
   - - [ ] — *brak/część materiałów*
   - - [X] — *wszystkie materiały dodane*
