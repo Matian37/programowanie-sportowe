@@ -6,17 +6,17 @@
 - [ ] Problemy NP
 - [ ] Trwałe struktury danych
 - [ ] Usuwanie offline
+- [ ] Zaawansowany DP
+   - [ ] slope trick
+   - [ ] convex hull trick
+   - [ ] optymalizacja z dziel i zwyciężaj
+   - [ ] optymalizacja knutha
 - [ ] Zaawansowana teoria liczb
    - [ ] algorytm rho pollarda
    - [ ] chińskie twierdzenie o resztach
    - [ ] binarne gcd
    - [ ] zaawansowana arytmetyka modulo
    - [ ] trik z pierwiastkiem sześciennym
-- [ ] Zaawansowany DP
-   - [ ] slope trick
-   - [ ] convex hull trick
-   - [ ] optymalizacja z dziel i zwyciężaj
-   - [ ] optymalizacja knutha
 - [ ] Zaawansowane algorytmy tekstowe
     - [ ] tablica sufiksowa
     - [ ] suffix automata
