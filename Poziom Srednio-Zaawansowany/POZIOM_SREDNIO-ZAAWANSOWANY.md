@@ -38,7 +38,7 @@
     - [ ] algorytm mo ★★★
 - [ ] Kolejka monotoniczna ★★☆
 - [ ] Maski bitowe + dp ★★★
-- [ ] Podejście brutalne ★★☆
+- [ ] Podejście brutalne ★★★
   - [ ] Backtracking + pisanie brutów ★★★
   - [ ] Branch and bound ★☆☆
 - [ ] Przyśpieszanie dynamików ★★★
