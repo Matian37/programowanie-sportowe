@@ -9,7 +9,8 @@
     - [ ] przez wybieranie ★☆☆
     - [ ] przez zliczanie ★★☆
     - [ ] sortowanie w C++ ★★★
-- [ ] Podstawy teorii liczb ★★★
+- [ ] Ciąg fibbonaciego ★★★
+- [ ] Podstawy teorii liczb ★★★ 
     - [ ] algorytm euklidesa ★★★
     - [ ] sito erastotenesa ★★★
     - [ ] faktoryzacja liczb ★★★
