@@ -37,6 +37,10 @@
     - [ ] technika light and heavy ★★★
     - [ ] algorytm mo ★★★
 - [ ] Kolejka monotoniczna ★★☆
+- [ ] Maski bitowe + dp ★★★
+- [ ] Podejście brutalne ★★☆
+  - [ ] Backtracking + pisanie brutów ★★★
+  - [ ] Branch and bound ★☆☆
 - [ ] Przyśpieszanie dynamików ★★★
 - [ ] Dynamiki na drzewach + technika przekorzeniania ★★★
 - [ ] Dynamiki na cyfrach oraz przedziałach  ★★☆
@@ -61,10 +65,6 @@
     - [ ] algorytm manachera ★☆☆
     - [ ] algorytm kmr ★☆☆
     - [ ] algorytm z ☆☆☆
-- [ ] Maski bitowe + dp ★★★
-- [ ] Podejście brutalne ★★☆
-  - [ ] Backtracking + pisanie brutów ★★★
-  - [ ] Branch and bound ★☆☆
 - [ ] Drzewo falkowe ★★★
 - [ ] Inne algorytmy wyszukiwań ★☆☆
 - [ ] Sum over subsets dp ★★★
