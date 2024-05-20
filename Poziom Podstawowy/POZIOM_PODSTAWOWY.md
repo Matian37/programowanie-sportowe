@@ -8,7 +8,7 @@
     - [ ] przez wstawianie ★☆☆
     - [ ] przez wybieranie ★☆☆
     - [ ] przez zliczanie ★★☆
-    - [ ] funckja sort ★★★
+    - [ ] funkcja sort w C++ ★★★
 - [ ] Ciąg fibbonaciego ★★★
 - [ ] Podstawy teorii liczb ★★★ 
     - [ ] algorytm euklidesa ★★★
