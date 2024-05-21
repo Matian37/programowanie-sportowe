@@ -1,5 +1,5 @@
 # Poziomu zaawansowany
-- [ ] 2-SAT
+- [ ] 2-SAT ★★★
 - [ ] Algorytmy randomizowane ★★★
 - [ ] Algorytmy przepływowe
 - [ ] Grafy planarne
