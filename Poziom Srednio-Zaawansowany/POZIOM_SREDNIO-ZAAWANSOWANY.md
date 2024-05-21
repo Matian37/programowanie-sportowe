@@ -83,4 +83,3 @@
 - [ ] Rozbicie przez centroid ★★☆
 - [ ] Potęgowanie macierzy ★★★
 - [ ] Heavy-light decomposition ★★☆
-- [ ] 2-SAT ★★★
