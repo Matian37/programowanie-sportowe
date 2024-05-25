@@ -72,7 +72,10 @@
     - [ ] strategie w grach i w rozwiązywaniu zadań ★★★
     - [ ] twierdzenie sprague-grundy'ego ★★★
 - [ ] Teoria liczb ★★★
-    - [ ] funckja eulera oraz funkcja sigma ★★☆
+    - [ ] twierdzenia i funckje ★★☆
+      - [ ] funckja eulera ★☆☆
+      - [ ] funkcja sigma ★★☆
+      - [ ] hipoteza goldbacha ★☆☆
     - [ ] arytmetyka modulo ★★★
     - [ ] sito liniowe ★★☆
     - [ ] testy pierwszości ★★★
