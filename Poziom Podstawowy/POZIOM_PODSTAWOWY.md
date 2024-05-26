@@ -1,4 +1,5 @@
 # Poziom podstawowy
+
 - [ ] Zliczanie ★★★
 - [ ] Sumy prefiksowe ★★★
 - [ ] Złożoności algorytmów ★★★
