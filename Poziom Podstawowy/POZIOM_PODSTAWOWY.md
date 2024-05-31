@@ -27,8 +27,9 @@
 - [ ] System liczbowe i operacje bitowe
 - [ ] Szybkie potęgowanie
 - [ ] Wyszukiwanie binarne po wyniku
-- [ ] Drzewa, kopiec, kolejka priorytetowa
-- [ ] Drzewo poszukiwań binarnych
+- [ ] Drzewa
+  - [ ] kopiec, kolejka priorytetowa
+  - [ ] drzewo poszukiwań binarnych (BST)
 - [ ] Dziel i zwyciężaj
   - [ ] mergesort
   - [ ] quicksort
