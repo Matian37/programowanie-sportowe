@@ -1,4 +1,4 @@
-# Tematy do dodania
+# Tematy i materiały do dodania
 
 - suma harmoniczna w zadaniach
 - średnica drzew
