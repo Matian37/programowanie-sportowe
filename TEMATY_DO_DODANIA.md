@@ -3,3 +3,4 @@
 - suma harmoniczna w zadaniach
 - średnica drzew
 - rotating calipers method
+- zliczanie ujemnych wartości
