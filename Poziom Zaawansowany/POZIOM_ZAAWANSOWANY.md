@@ -1,7 +1,7 @@
 # Poziomu zaawansowany
 
-- [ ] 2-SAT ★★★
-- [ ] Algorytmy randomizowane ★★★
+- [ ] 2-SAT
+- [ ] Algorytmy randomizowane
 - [ ] Algorytmy przepływowe
 - [ ] Grafy planarne
 - [ ] Skojarzenia w grafach
@@ -9,21 +9,21 @@
 - [ ] Trwałe struktury danych
 - [ ] Usuwanie offline
 - [ ] Zaawansowany DP
-   - [ ] slope trick
-   - [ ] convex hull trick
-   - [ ] optymalizacja z dziel i zwyciężaj
-   - [ ] optymalizacja knutha
+  - [ ] slope trick
+  - [ ] convex hull trick
+  - [ ] optymalizacja z dziel i zwyciężaj
+  - [ ] optymalizacja knutha
 - [ ] Zaawansowana teoria liczb
-   - [ ] algorytm rho pollarda
-   - [ ] chińskie twierdzenie o resztach
-   - [ ] binarne gcd
-   - [ ] zaawansowana arytmetyka modulo
-   - [ ] trik z pierwiastkiem sześciennym
+  - [ ] algorytm rho pollarda
+  - [ ] chińskie twierdzenie o resztach
+  - [ ] binarne gcd
+  - [ ] zaawansowana arytmetyka modulo
+  - [ ] trik z pierwiastkiem sześciennym
 - [ ] Zaawansowane algorytmy tekstowe
-    - [ ] tablica sufiksowa
-    - [ ] suffix automata
-    - [ ] drzewo sufiksowe
-    - [ ] drzewo palindromiczne
-    - [ ] aho corasick
+  - [ ] tablica sufiksowa
+  - [ ] suffix automata
+  - [ ] drzewo sufiksowe
+  - [ ] drzewo palindromiczne
+  - [ ] aho corasick
 - [ ] Geometryczne struktury danych
 - [ ] Wielomiany i FFT
