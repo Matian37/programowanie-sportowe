@@ -67,7 +67,6 @@
   - [ ] algorytm kmr
   - [ ] algorytm z
 - [ ] Drzewo falkowe
-- [ ] Inne algorytmy wyszukiwań
 - [ ] Sum over subsets dp
 - [ ] Teoria gier
   - [ ] strategie w grach i w rozwiązywaniu zadań
