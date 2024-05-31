@@ -5,10 +5,10 @@
 - [ ] Złożoności algorytmów ★★★
 - [ ] Algorytm kadane ★☆☆
 - [ ] Sortowanie ★★★
-    - [ ] bąbelkowe ★★☆
-    - [ ] przez wstawianie ★☆☆
-    - [ ] przez wybieranie ★☆☆
-    - [ ] przez zliczanie ★★☆
+    - [ ] bąbelkowe ★☆☆
+    - [ ] przez wstawianie ☆☆☆
+    - [ ] przez wybieranie ☆☆☆
+    - [ ] przez zliczanie ☆☆☆
     - [ ] funkcja sort w C++ ★★★
 - [ ] Ciąg fibbonaciego ★★★
 - [ ] Podstawy teorii liczb ★★★ 
@@ -28,15 +28,14 @@
 - [ ] Szybkie potęgowanie ★★★
 - [ ] Wyszukiwanie binarne po wyniku ★★★
 - [ ] Drzewa, kopiec, kolejka priorytetowa ★★★
-- [ ] Drzewo poszukiwań binarnych ★☆☆
-- [ ] Sortowanie z rekurencją ★★★
-    - [ ] quicksort ★★★
-    - [ ] mergesort ★★★
+- [ ] Drzewo poszukiwań binarnych ☆☆☆
+- [ ] Dziel i zwyciężaj ★★☆
+    - [ ] mergesort ★★☆
+    - [ ] quicksort ★☆☆
 - [ ] Znajdowanie k-tego elementu w ciągu ★☆☆
   - [ ] quickselect ★☆☆
 - [ ] Programowanie zachłanne ★★★
 - [ ] Technika skalowania ★★★
-- [ ] Dziel i zwyciężaj ★★☆
 - [ ] Wstęp do programowania dynamicznego ★★★
 - [ ] Wstęp do teorii grafów ★★★
 - [ ] Równoległe wyszukiwanie binarne ★☆☆
