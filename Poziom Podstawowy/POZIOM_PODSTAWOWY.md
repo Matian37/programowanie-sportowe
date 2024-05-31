@@ -1,41 +1,41 @@
 # Poziom podstawowy
 
-- [ ] Zliczanie ★★★
-- [ ] Sumy prefiksowe ★★★
-- [ ] Złożoności algorytmów ★★★
-- [ ] Algorytm kadane ★☆☆
-- [ ] Sortowanie ★★★
-    - [ ] bąbelkowe ★☆☆
-    - [ ] przez wstawianie ☆☆☆
-    - [ ] przez wybieranie ☆☆☆
-    - [ ] przez zliczanie ☆☆☆
-    - [ ] funkcja sort w C++ ★★★
-- [ ] Ciąg fibbonaciego ★★★
-- [ ] Podstawy teorii liczb ★★★ 
-    - [ ] algorytm euklidesa ★★★
-    - [ ] sito erastotenesa ★★★
-    - [ ] faktoryzacja liczb ★★★
-    - [ ] znajdowanie dzielników i testy pierwszości ★★★
-    - [ ] podstawy arytmetyki modulo ★★★
-- [ ] Wstęp do algorytmów tekstowych ★★★
-- [ ] Znajdowanie lidera w ciągu ★☆☆
-    - [ ] w złożoności O(n) ★☆☆
-    - [ ] w złożoności O(n log n) ★☆☆
-- [ ] Stos, kolejka, lista ★★★
-- [ ] Algorytm gąsienicy ★★☆
-- [ ] Wyszukiwanie binarne ★★★
-- [ ] System liczbowe i operacje bitowe ★★★
-- [ ] Szybkie potęgowanie ★★★
-- [ ] Wyszukiwanie binarne po wyniku ★★★
-- [ ] Drzewa, kopiec, kolejka priorytetowa ★★★
-- [ ] Drzewo poszukiwań binarnych ☆☆☆
-- [ ] Dziel i zwyciężaj ★★☆
-    - [ ] mergesort ★★☆
-    - [ ] quicksort ★☆☆
-- [ ] Znajdowanie k-tego elementu w ciągu ★☆☆
-  - [ ] quickselect ★☆☆
-- [ ] Programowanie zachłanne ★★★
-- [ ] Technika skalowania ★★★
-- [ ] Wstęp do programowania dynamicznego ★★★
-- [ ] Wstęp do teorii grafów ★★★
-- [ ] Równoległe wyszukiwanie binarne ★☆☆
+- [ ] Zliczanie
+- [ ] Sumy prefiksowe
+- [ ] Złożoności algorytmów
+- [ ] Algorytm kadane
+- [ ] Sortowanie
+  - [ ] bąbelkowe
+  - [ ] przez wstawianie
+  - [ ] przez wybieranie
+  - [ ] przez zliczanie
+  - [ ] funkcja sort w C++
+- [ ] Ciąg fibbonaciego
+- [ ] Podstawy teorii liczb
+  - [ ] algorytm euklidesa
+  - [ ] sito erastotenesa
+  - [ ] faktoryzacja liczb
+  - [ ] znajdowanie dzielników i testy pierwszości
+  - [ ] podstawy arytmetyki modulo
+- [ ] Wstęp do algorytmów tekstowych
+- [ ] Znajdowanie lidera w ciągu
+  - [ ] w złożoności O(n)
+  - [ ] w złożoności O(n log n)
+- [ ] Stos, kolejka, lista
+- [ ] Algorytm gąsienicy
+- [ ] Wyszukiwanie binarne
+- [ ] System liczbowe i operacje bitowe
+- [ ] Szybkie potęgowanie
+- [ ] Wyszukiwanie binarne po wyniku
+- [ ] Drzewa, kopiec, kolejka priorytetowa
+- [ ] Drzewo poszukiwań binarnych
+- [ ] Dziel i zwyciężaj
+  - [ ] mergesort
+  - [ ] quicksort
+- [ ] Znajdowanie k-tego elementu w ciągu
+  - [ ] quickselect
+- [ ] Programowanie zachłanne
+- [ ] Technika skalowania
+- [ ] Wstęp do programowania dynamicznego
+- [ ] Wstęp do teorii grafów
+- [ ] Równoległe wyszukiwanie binarne
