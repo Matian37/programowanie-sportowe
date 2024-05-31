@@ -23,4 +23,3 @@ Przykładowy temat znajduje się w [plikach](https://github.com/Matian37/program
   - ★☆☆ — okazjonalnie przydatny (np. quickselect, kolejka monotoniczna)
   - ★★☆ — przydatny (np. algorytm gąsienicy, heavy-light decomposition)
   - ★★★ - must-have (np. wyszukiwanie binarne, potęgowanie macierzy)
-  - ✱ - tematy zalecany do nauki bez względu na przydatność
