@@ -40,8 +40,8 @@
 - [ ] Kolejka monotoniczna
 - [ ] Maski bitowe + dp
 - [ ] Podejście brutalne
-  - [ ] Backtracking + pisanie brutów
-  - [ ] Branch and bound
+  - [ ] Backtracking i Branch and bound
+  - [ ] Pisanie brutów
 - [ ] Przyśpieszanie dynamików
 - [ ] Dynamiki na drzewach + technika przekorzeniania
 - [ ] Dynamiki na cyfrach oraz przedziałach
