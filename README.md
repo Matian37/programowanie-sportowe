@@ -15,10 +15,10 @@ Tematy skupiające się głównie na matematyce oraz programowaniu w C++ zostan�
 Przykładowy temat znajduje się w [plikach](https://github.com/Matian37/programowanie-sportowe/tree/main/Przykladowy%20Temat).
 
 ## Oznaczenia do spisów treści
-- **Status tematu:**
+- **Status tworzenia tematu:**
   - - [ ] — *brak/część materiałów*
   - - [X] — *wszystkie materiały dodane*
-- **Temat:**
+- **Przydatność tematu:**
   - ☆☆☆ — nieprzydatny (np. sortowanie przez wybieranie, algorytm borůvki)
   - ★☆☆ — okazjonalnie przydatny (np. quickselect, kolejka monotoniczna)
   - ★★☆ — przydatny (np. algorytm gąsienicy, heavy-light decomposition)
