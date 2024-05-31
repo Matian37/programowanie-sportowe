@@ -40,3 +40,4 @@
 - [ ] Wstęp do programowania dynamicznego
 - [ ] Wstęp do teorii grafów
 - [ ] Równoległe wyszukiwanie binarne
+- [ ] Inne algorytmy wyszukiwań
