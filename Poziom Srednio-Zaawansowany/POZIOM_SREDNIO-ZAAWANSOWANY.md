@@ -37,7 +37,7 @@
   - [ ] aktualizacja co pierwiastek
   - [ ] technika light and heavy
   - [ ] algorytm mo
-- [ ] Kolejka monotoniczna
+- [ ] Kolejka monotoniczna oraz monotoniczny stos
 - [ ] Maski bitowe + dp
 - [ ] Podejście brutalne
   - [ ] Backtracking i Branch and bound
