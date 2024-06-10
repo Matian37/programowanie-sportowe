@@ -3,15 +3,15 @@
 - [ ] 2-SAT
 - [ ] Algorytmy randomizowane
 - [ ] Algorytmy przepływowe
-  - [ ]  wstęp do przepływów
-  - [ ]  problem maksymalnego przepływu i algorytm forda-Fulkersona
-  - [ ]  algorytm edmondsa-karpa
-  - [ ]  algorytm dinica
-  - [ ]  algorytm hopcrofta-karpa
-  - [ ]  skalowanie
-  - [ ]  maksymalny przepływ minimalnym kosztem
-- [ ] Grafy planarne
+  - [ ] wstęp do przepływów
+  - [ ] problem maksymalnego przepływu i algorytm forda-Fulkersona
+  - [ ] algorytm edmondsa-karpa
+  - [ ] algorytm dinica
+  - [ ] algorytm hopcrofta-karpa
+  - [ ] skalowanie
+  - [ ] maksymalny przepływ minimalnym kosztem
 - [ ] Skojarzenia w grafach
+- [ ] Grafy planarne
 - [ ] Problemy NP
 - [ ] Trwałe struktury danych
 - [ ] Usuwanie offline
