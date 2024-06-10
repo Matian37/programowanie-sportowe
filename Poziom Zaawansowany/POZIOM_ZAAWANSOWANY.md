@@ -22,10 +22,10 @@
   - [ ] optymalizacja knutha
 - [ ] Zaawansowana teoria liczb
   - [ ] algorytm rho pollarda
+  - [ ] trik z pierwiastkiem sześciennym
   - [ ] chińskie twierdzenie o resztach
   - [ ] binarne gcd
-  - [ ] zaawansowana arytmetyka modulo
-  - [ ] trik z pierwiastkiem sześciennym
+  - [ ] generatory i logarytm dyskretny w arytmetyce modulo
 - [ ] Zaawansowane algorytmy tekstowe
   - [ ] tablica sufiksowa
   - [ ] suffix automata
