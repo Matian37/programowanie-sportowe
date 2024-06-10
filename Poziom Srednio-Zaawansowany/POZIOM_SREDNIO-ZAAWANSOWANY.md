@@ -68,6 +68,7 @@
   - [ ] algorytm z
 - [ ] Drzewo falkowe
 - [ ] Sum over subsets dp
+- [ ] Meduzy
 - [ ] Teoria gier
   - [ ] strategie w grach i w rozwiązywaniu zadań
   - [ ] twierdzenie sprague-grundy'ego
