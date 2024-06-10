@@ -13,7 +13,6 @@
 - [ ] Technika small-to-large merging
 - [ ] Sumy prefiksowe 2D
 - [ ] Find and union
-- [ ] Ścieżka i cykl eulera
 - [ ] Analiza kosztu zamortyzowanego
 - [ ] Aktualizowanie poddrzew
 - [ ] Minimalne drzewo rozpinające
