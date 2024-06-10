@@ -73,7 +73,7 @@
   - [ ] strategie w grach i w rozwiązywaniu zadań
   - [ ] twierdzenie sprague-grundy'ego
 - [ ] Teoria liczb
-  - [ ] twierdzenia i funckje
+  - [ ] twierdzenia i funkcje
     - [ ] funckja eulera
     - [ ] funkcja sigma
     - [ ] hipoteza goldbacha
