@@ -15,6 +15,7 @@
 - [ ] Find and union
 - [ ] Analiza kosztu zamortyzowanego
 - [ ] Aktualizowanie poddrzew
+- [ ] Dynamiki na drzewach + technika przekorzeniania
 - [ ] Minimalne drzewo rozpinające
   - [ ] algorytm prima
   - [ ] algorytm kruskala
@@ -42,7 +43,6 @@
   - [ ] Backtracking i Branch and bound
   - [ ] Pisanie brutów
 - [ ] Przyśpieszanie dynamików
-- [ ] Dynamiki na drzewach + technika przekorzeniania
 - [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Geometria obliczeniowa
   - [ ] podstawy geometrii
