@@ -4,3 +4,4 @@
 - średnica drzew
 - rotating calipers method
 - zliczanie ujemnych wartości
+- inne algorytmy znajdowania max flow
