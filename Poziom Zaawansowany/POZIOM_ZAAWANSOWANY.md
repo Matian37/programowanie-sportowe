@@ -5,7 +5,7 @@
 - [ ] Algorytmy przepływowe
   - [ ]  wstęp do przepływów
   - [ ]  problem maksymalnego przepływu i algorytm forda-Fulkersona
-  - [ ]  algorytm edmomdsa-karpa
+  - [ ]  algorytm edmondsa-karpa
   - [ ]  algorytm dinica
   - [ ]  algorytm hopcrofta-karpa
   - [ ]  skalowanie
