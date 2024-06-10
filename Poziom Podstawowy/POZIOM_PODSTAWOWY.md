@@ -39,5 +39,8 @@
 - [ ] Technika skalowania
 - [ ] Wstęp do programowania dynamicznego
 - [ ] Wstęp do teorii grafów
+  - [ ] wstęp, definicje i metody reprezentacji w komputerze
+  - [ ] dfs i bfs
+  - [ ] cykl i ścieżka eulera
 - [ ] Równoległe wyszukiwanie binarne
 - [ ] Inne algorytmy wyszukiwań
