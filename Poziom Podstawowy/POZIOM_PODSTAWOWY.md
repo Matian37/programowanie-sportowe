@@ -1,8 +1,8 @@
 # Poziom podstawowy
 
+- [ ] Złożoności algorytmów
 - [ ] Zliczanie
 - [ ] Sumy prefiksowe
-- [ ] Złożoności algorytmów
 - [ ] Algorytm kadane
 - [ ] Sortowanie
   - [ ] bąbelkowe
