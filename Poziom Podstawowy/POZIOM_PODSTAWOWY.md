@@ -45,6 +45,7 @@
 - [ ] Wstęp do teorii grafów
   - [ ] wstęp, definicje i metody reprezentacji w komputerze
   - [ ] dfs i bfs
+  - [ ] spójne składowe
   - [ ] cykl i ścieżka eulera
 - [ ] Równoległe wyszukiwanie binarne
 - [ ] Inne algorytmy wyszukiwań
