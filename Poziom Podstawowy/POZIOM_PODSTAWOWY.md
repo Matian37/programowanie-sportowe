@@ -34,6 +34,7 @@
 - [ ] Dziel i zwyciężaj
   - [ ] mergesort
   - [ ] quicksort
+  - [ ] liczenie złożoności
 - [ ] Znajdowanie k-tego elementu w ciągu
   - [ ] quickselect
 - [ ] Programowanie zachłanne
