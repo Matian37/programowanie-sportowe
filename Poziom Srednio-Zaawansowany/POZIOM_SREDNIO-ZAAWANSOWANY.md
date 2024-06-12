@@ -18,7 +18,7 @@
   - [ ] metoda księgowania
   - [ ] metoda potencjału 
 - [ ] Aktualizowanie poddrzew
-- [ ] Dynamiki na drzewach + technika przekorzeniania
+- [ ] Dynamiki na drzewach oraz technika przekorzeniania
 - [ ] Minimalne drzewo rozpinające
   - [ ] algorytm prima
   - [ ] algorytm kruskala
