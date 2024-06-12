@@ -18,6 +18,8 @@
   - [ ] znajdowanie dzielników i testy pierwszości
   - [ ] podstawy arytmetyki modulo
 - [ ] Wstęp do algorytmów tekstowych
+  - [ ] char, string w C++
+  - [ ] palindromy, anagramy
 - [ ] Znajdowanie lidera w ciągu
   - [ ] w złożoności O(n)
   - [ ] w złożoności O(n log n)
