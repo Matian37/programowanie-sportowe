@@ -28,6 +28,7 @@
 - [ ] Szybkie potęgowanie
 - [ ] Wyszukiwanie binarne po wyniku
 - [ ] Drzewa
+  - [ ] wstęp i definicja
   - [ ] kopiec, kolejka priorytetowa
   - [ ] drzewo poszukiwań binarnych (BST)
 - [ ] Dziel i zwyciężaj
