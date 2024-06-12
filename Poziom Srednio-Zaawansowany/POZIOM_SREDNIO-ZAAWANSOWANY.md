@@ -14,6 +14,9 @@
 - [ ] Sumy prefiksowe 2D
 - [ ] Find and union
 - [ ] Analiza kosztu zamortyzowanego
+  - [ ] metoda kosztu sumarycznego
+  - [ ] metoda księgowania
+  - [ ] metoda potencjału 
 - [ ] Aktualizowanie poddrzew
 - [ ] Dynamiki na drzewach + technika przekorzeniania
 - [ ] Minimalne drzewo rozpinające
