@@ -9,3 +9,4 @@
 - podstawy c++
 - stl w c++
 - pbds w c++
+- do znajdowania cykli w grafie dodać algorytm floyda
