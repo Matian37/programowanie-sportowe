@@ -47,6 +47,7 @@
   - [ ] dfs i bfs
   - [ ] spójne składowe
   - [ ] cykl i ścieżka eulera
+  - [ ] znajdowanie cykli w grafie
 - [ ] Równoległe wyszukiwanie binarne
 - [ ] Inne algorytmy wyszukiwań
   - [ ] Ternary search
