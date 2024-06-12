@@ -13,6 +13,8 @@
 - [ ] Skojarzenia w grafach
 - [ ] Grafy planarne
 - [ ] Problemy NP
+  - [ ] rozwiązywanie zadań powiązanych z problemami NP
+  - [ ] problem komiwojażera
 - [ ] Trwałe struktury danych
 - [ ] Usuwanie offline
 - [ ] Zaawansowany DP
