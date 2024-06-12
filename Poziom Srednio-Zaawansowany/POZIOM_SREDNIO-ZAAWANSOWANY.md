@@ -38,7 +38,7 @@
   - [ ] technika light and heavy
   - [ ] algorytm mo
 - [ ] Kolejka monotoniczna oraz monotoniczny stos
-- [ ] Maski bitowe + dp
+- [ ] Maski bitowe
 - [ ] Podejście brutalne
   - [ ] backtracking i branch and bound
   - [ ] pisanie brutów
