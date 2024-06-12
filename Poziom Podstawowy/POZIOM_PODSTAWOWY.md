@@ -45,3 +45,5 @@
   - [ ] cykl i ścieżka eulera
 - [ ] Równoległe wyszukiwanie binarne
 - [ ] Inne algorytmy wyszukiwań
+  - [ ] Ternary search
+
