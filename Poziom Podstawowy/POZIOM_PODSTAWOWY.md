@@ -38,8 +38,8 @@
 - [ ] Znajdowanie k-tego elementu w ciągu
   - [ ] quickselect
 - [ ] Programowanie zachłanne
-  - [ ] Problem wyboru zajęć
-  - [ ] Dowodzenie rozwiązań zachłannych
+  - [ ] problem wyboru zajęć
+  - [ ] dowodzenie rozwiązań zachłannych
 - [ ] Technika skalowania
 - [ ] Wstęp do programowania dynamicznego
 - [ ] Wstęp do teorii grafów
