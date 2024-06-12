@@ -1,7 +1,7 @@
 # Tematy i materiały do dodania
 
 - suma harmoniczna w zadaniach
-- średnica drzew
+- średnica drzew do tematu z drzewami
 - rotating calipers method
 - zliczanie ujemnych wartości
 - inne algorytmy znajdowania max flow
