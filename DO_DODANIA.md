@@ -3,7 +3,7 @@
 - suma harmoniczna w zadaniach
 - średnica drzew do tematu z drzewami
 - rotating calipers method
-- zliczanie ujemnych wartości
+- dodać zliczanie ujemnych wartości do zliczania
 - inne algorytmy znajdowania max flow
 - do znajdowania dzielników dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
 - podstawy c++
