@@ -5,7 +5,7 @@
 - rotating calipers method
 - dodać zliczanie ujemnych wartości do zliczania
 - inne algorytmy znajdowania max flow
-- do znajdowania dzielników dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
+- do faktoryzacji dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
 - podstawy c++
 - stl w c++
 - pbds w c++
