@@ -41,6 +41,7 @@
   - [ ] quickselect
 - [ ] Programowanie zachłanne
   - [ ] problem wyboru zajęć
+  - [ ] podstawy strategii zachłannej
   - [ ] dowodzenie rozwiązań zachłannych
 - [ ] Technika skalowania
 - [ ] Wstęp do programowania dynamicznego
