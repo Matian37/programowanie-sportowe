@@ -1,6 +1,6 @@
 # Programowanie Sportowe
 
-Repo będzie zawierało materiały do nauki programowania sportowego dla trzech poziomów:
+Tematy dzielą się na trzy poziomy:
 
 - **podstawowy** (dla początkujących w algorytmice)
 
@@ -8,12 +8,12 @@ Repo będzie zawierało materiały do nauki programowania sportowego dla trzech 
 
 - **zaawansowany** (dla osób przygotowujących się do III etapu OI i wyżej)
 
-Tematy są posortowane w kolejności sugerowanej do uczenia się.</br>
-Na ten moment dodawane będą materiały związane głównie z algorytmami, strukturami oraz technikami.</br>
-Tematy skupiające się głównie na matematyce oraz programowaniu w C++ zostaną dodane w przyszłości.
+Do każdego poziomu jest dołączony spis treści. Każdy z nich jest specjalnie zrobiony pod wykorzystanie jako checklisty.
 
 ## Oznaczenia do spisów treści
+  - ⭐ — temat na momemnt nauki traktowany jako dodatkowy
 
-- **Status tworzenia tematu:**
-  - - [ ] — *brak/część materiałów*
-  - - [X] — *wszystkie materiały dodane*
+## Dalsze informacje
+
+Na ten moment dodawane będą materiały związane głównie z algorytmami, strukturami oraz technikami.
+Tematy skupiające się głównie na matematyce oraz programowaniu w C++ zostaną dodane w przyszłości.
