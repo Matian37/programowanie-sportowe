@@ -22,13 +22,13 @@
 - [ ] Minimalne drzewo rozpinające
   - [ ] algorytm prima
   - [ ] algorytm kruskala
-  - [ ] algorytm borůvki
+  - [ ] algorytm borůvki ⭐
 - [ ] Algorytmy najkrótszej ścieżki
   - [ ] algorytm dijkstry
   - [ ] algorytm bellmana-forda oraz spfa
   - [ ] algorytm floyda-warshalla
-  - [ ] algorytm johnsona
-  - [ ] algorytm a*
+  - [ ] algorytm johnsona ⭐
+  - [ ] algorytm a* ⭐
 - [ ] Sparse table
 - [ ] Technika euler toura
 - [ ] LCA
@@ -43,8 +43,9 @@
 - [ ] Kolejka monotoniczna oraz monotoniczny stos
 - [ ] Maski bitowe
 - [ ] Podejście brutalne
-  - [ ] backtracking i branch and bound
+  - [ ] backtracking
   - [ ] pisanie brutów
+  - [ ] branch and bound ⭐
 - [ ] Przyśpieszanie dynamików oraz triki
 - [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Geometria obliczeniowa
@@ -65,9 +66,9 @@
   - [ ] wstępne pojęcia i kmp
   - [ ] drzewo trie
   - [ ] porównywanie tekstów z aktualizacjami
-  - [ ] algorytm manachera
-  - [ ] algorytm kmr
-  - [ ] algorytm z
+  - [ ] algorytm manachera ⭐
+  - [ ] algorytm kmr ⭐
+  - [ ] algorytm z ⭐
 - [ ] Drzewo falkowe
 - [ ] Sum over subsets dp
 - [ ] Meduzy
@@ -78,9 +79,9 @@
   - [ ] twierdzenia i funkcje
     - [ ] funckja eulera
     - [ ] funkcja sigma
-    - [ ] hipoteza goldbacha
+    - [ ] hipoteza goldbacha ⭐
   - [ ] arytmetyka modulo
-  - [ ] sito liniowe
+  - [ ] sito liniowe ⭐
   - [ ] testy pierwszości
   - [ ] rozszerzony algorytm euklidesa
   - [ ] bardzo duże liczby
