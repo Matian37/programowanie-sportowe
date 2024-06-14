@@ -16,7 +16,7 @@
 - [ ] Analiza kosztu zamortyzowanego
   - [ ] metoda kosztu sumarycznego
   - [ ] metoda księgowania
-  - [ ] metoda potencjału 
+  - [ ] metoda potencjału
 - [ ] Aktualizowanie poddrzew
 - [ ] Dynamiki na drzewach oraz technika przekorzeniania
 - [ ] Minimalne drzewo rozpinające
