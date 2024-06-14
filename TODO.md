@@ -14,3 +14,4 @@
 - dodać statystyki pozycyjne
 - dodać radix sort
 - dodać dynamiczne drzewo przedziałowe do drzew przedziałowych
+- w jakiejś formie dodać struktury 2D gridu
