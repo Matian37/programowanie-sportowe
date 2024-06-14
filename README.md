@@ -11,7 +11,7 @@ Tematy dzielą się na trzy poziomy:
 Do każdego poziomu jest dołączony spis treści. Każdy z nich jest specjalnie zrobiony pod wykorzystanie jako checklisty.
 
 ## Oznaczenia do spisów treści
-  - ⭐ — temat na momemnt nauki traktowany jako dodatkowy
+  - ⭐ — temat na moment nauki traktowany jako dodatkowy (ze względu na trudność lub przydatność)
 
 ## Dalsze informacje
 
