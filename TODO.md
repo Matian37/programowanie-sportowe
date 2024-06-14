@@ -1,4 +1,4 @@
-# To do
+# To Do
 
 - dodać suma harmoniczna w zadaniach
 - dodać średnica drzew do tematu z drzewami
