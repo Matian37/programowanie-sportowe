@@ -10,3 +10,4 @@
 - dodać stl w c++
 - dodać pbds w c++
 - do znajdowania cykli w grafie dodać algorytm floyda
+- Przenieść część tematów z zaawansowanej teorii liczb do teorii liczb w poziomie srednio-zaawansowanym
