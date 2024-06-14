@@ -2,6 +2,9 @@
 
 - [ ] 2-SAT
 - [ ] Algorytmy randomizowane
+- [ ] Problemy NP
+  - [ ] rozwiązywanie zadań powiązanych z problemami NP
+  - [ ] problem komiwojażera
 - [ ] Algorytmy przepływowe
   - [ ] wstęp do przepływów
   - [ ] problem maksymalnego przepływu i algorytm forda-Fulkersona
@@ -12,9 +15,6 @@
   - [ ] maksymalny przepływ minimalnym kosztem
 - [ ] Skojarzenia w grafach
 - [ ] Grafy planarne
-- [ ] Problemy NP
-  - [ ] rozwiązywanie zadań powiązanych z problemami NP
-  - [ ] problem komiwojażera
 - [ ] Trwałe struktury danych
 - [ ] Usuwanie offline
 - [ ] Zaawansowany DP
