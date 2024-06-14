@@ -89,4 +89,4 @@
 - [ ] Meet in the middle
 - [ ] Rozbicie przez centroid
 - [ ] Potęgowanie macierzy
-- [ ] Heavy-light decomposition
+- [ ] Dekompozycja Heavy-light
