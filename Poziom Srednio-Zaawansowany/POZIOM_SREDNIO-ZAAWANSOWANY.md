@@ -45,7 +45,7 @@
 - [ ] Podejście brutalne
   - [ ] backtracking i branch and bound
   - [ ] pisanie brutów
-- [ ] Przyśpieszanie dynamików
+- [ ] Przyśpieszanie dynamików oraz triki
 - [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Geometria obliczeniowa
   - [ ] podstawy geometrii
