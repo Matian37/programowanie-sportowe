@@ -52,6 +52,4 @@
   - [ ] cykl i ścieżka eulera
   - [ ] znajdowanie cykli w grafie
 - [ ] Równoległe wyszukiwanie binarne
-- [ ] Inne algorytmy wyszukiwań
-  - [ ] Ternary search
-
+- [ ] Ternary search
