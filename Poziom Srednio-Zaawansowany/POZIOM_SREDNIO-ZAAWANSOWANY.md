@@ -45,11 +45,11 @@
   - [ ] backtracking
   - [ ] pisanie brutów
   - [ ] branch and bound ⭐
+- [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Dynamiki wykładnicze
   - [ ] Maski bitowe
   - [ ] Sum over subsets
 - [ ] Przyśpieszanie dynamików oraz triki
-- [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Geometria obliczeniowa
   - [ ] podstawy geometrii
   - [ ] wielokąty
