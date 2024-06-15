@@ -6,6 +6,10 @@
   - [ ] najdłuższy wspólny podciąg
 - [ ] Drzewo fenwicka
 - [ ] Drzewa przedziałowe
+  - [ ] przedział-punkt
+  - [ ] punkt-przedział
+  - [ ] przedział-przedział
+  - [ ] dynamiczne drzewo przedziałowe ⭐
 - [ ] DAG i sortowanie topologiczne
 - [ ] Silne spójne składowe:
   - [ ] algorytm kosajru
