@@ -41,11 +41,13 @@
   - [ ] technika light and heavy
   - [ ] algorytm mo
 - [ ] Kolejka monotoniczna oraz monotoniczny stos
-- [ ] Maski bitowe
 - [ ] Podejście brutalne
   - [ ] backtracking
   - [ ] pisanie brutów
   - [ ] branch and bound ⭐
+- [ ] Dynamiki wykładnicze
+  - [ ] Maski bitowe
+  - [ ] Sum over subsets
 - [ ] Przyśpieszanie dynamików oraz triki
 - [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Geometria obliczeniowa
@@ -70,7 +72,6 @@
   - [ ] algorytm kmr ⭐
   - [ ] algorytm z ⭐
 - [ ] Drzewo falkowe
-- [ ] Sum over subsets dp
 - [ ] Meduzy
 - [ ] Teoria gier
   - [ ] strategie w grach i w rozwiązywaniu zadań
