@@ -47,8 +47,8 @@
   - [ ] branch and bound ⭐
 - [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Dynamiki wykładnicze
-  - [ ] Maski bitowe
-  - [ ] Sum over subsets
+  - [ ] maski bitowe
+  - [ ] sum over subsets
 - [ ] Przyśpieszanie dynamików oraz triki
 - [ ] Geometria obliczeniowa
   - [ ] podstawy geometrii
@@ -85,7 +85,7 @@
   - [ ] sito liniowe
   - [ ] testy pierwszości
   - [ ] rozszerzony algorytm euklidesa
-  - [ ] bardzo duże liczby
+  - [ ] bignumy
 - [ ] Funkcja low
 - [ ] Meet in the middle
 - [ ] Rozbicie przez centroid
