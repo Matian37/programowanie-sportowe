@@ -81,7 +81,7 @@
     - [ ] funkcja sigma
     - [ ] hipoteza goldbacha ⭐
   - [ ] arytmetyka modulo
-  - [ ] sito liniowe ⭐
+  - [ ] sito liniowe
   - [ ] testy pierwszości
   - [ ] rozszerzony algorytm euklidesa
   - [ ] bardzo duże liczby
