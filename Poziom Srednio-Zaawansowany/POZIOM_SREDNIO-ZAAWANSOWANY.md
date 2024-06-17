@@ -66,6 +66,7 @@
   - [ ] haszowanie stringów
   - [ ] hashmapy
   - [ ] inne ciekawe zastosowania
+- [ ] Statystyki pozycyjne 
 - [ ] Algorytmy tekstowe
   - [ ] algorytm booyer'a moora
   - [ ] algorytm rabina-karpa
