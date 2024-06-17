@@ -10,5 +10,4 @@
 - dodać pbds w c++
 - do znajdowania cykli w grafie dodać algorytm floyda
 - przenieść część tematów z zaawansowanej teorii liczb do teorii liczb w poziomie srednio-zaawansowanym
-- dodać radix sort
 - w jakiejś formie dodać struktury 2D gridu
