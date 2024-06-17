@@ -23,6 +23,7 @@
 - [ ] Znajdowanie lidera w ciągu
   - [ ] w złożoności O(n)
   - [ ] w złożoności O(n log n)
+- [ ] Szereg harmoniczny w zadaniach
 - [ ] Stos, kolejka, lista
 - [ ] Algorytm gąsienicy
 - [ ] Wyszukiwanie binarne
