@@ -53,6 +53,7 @@
 - [ ] Dynamiki wykładnicze
   - [ ] maski bitowe
   - [ ] sum over subsets
+  - [ ] problem komiwojażera
 - [ ] Przyśpieszanie dynamików oraz triki
 - [ ] Geometria obliczeniowa
   - [ ] podstawy geometrii
