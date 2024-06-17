@@ -1,6 +1,5 @@
 # To Do
 
-- dodać suma harmoniczna w zadaniach
 - dodać średnica drzew do tematu z drzewami
 - dodać rotating calipers method
 - dodać zliczanie ujemnych wartości do zliczania
