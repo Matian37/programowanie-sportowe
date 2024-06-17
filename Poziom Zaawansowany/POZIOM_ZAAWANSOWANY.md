@@ -3,8 +3,8 @@
 - [ ] 2-SAT
 - [ ] Algorytmy randomizowane
 - [ ] Problemy NP
+  - [ ] przykładowe problemy NP 
   - [ ] rozwiązywanie zadań powiązanych z problemami NP
-  - [ ] problem komiwojażera
 - [ ] Algorytmy przepływowe
   - [ ] wstęp do przepływów
   - [ ] problem maksymalnego przepływu i algorytm forda-Fulkersona
