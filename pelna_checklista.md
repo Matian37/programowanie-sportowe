@@ -64,7 +64,7 @@
   - [ ] przedział-punkt
   - [ ] punkt-przedział
   - [ ] przedział-przedział ⭐
-  - [ ] dynamiczne drzewo przedziałowe 
+  - [ ] dynamiczne drzewo przedziałowe
 - [ ] DAG i sortowanie topologiczne
 - [ ] Silne spójne składowe:
   - [ ] algorytm kosajru
@@ -122,7 +122,7 @@
   - [ ] haszowanie stringów
   - [ ] hashmapy
   - [ ] inne ciekawe zastosowania
-- [ ] Statystyki pozycyjne 
+- [ ] Statystyki pozycyjne
 - [ ] Algorytmy tekstowe
   - [ ] algorytm booyer'a moora
   - [ ] algorytm rabina-karpa
@@ -152,10 +152,10 @@
 - [ ] Rozbicie przez centroid
 - [ ] Potęgowanie macierzy
 - [ ] Dekompozycja heavy-light
-- [ ] 2-SAT
+  - [ ] 2-SAT
 - [ ] Algorytmy randomizowane
 - [ ] Problemy NP
-  - [ ] przykładowe problemy NP 
+  - [ ] przykładowe problemy NP
   - [ ] rozwiązywanie zadań powiązanych z problemami NP
 - [ ] Algorytmy przepływowe
   - [ ] wstęp do przepływów
