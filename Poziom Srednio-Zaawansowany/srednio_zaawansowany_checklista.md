@@ -9,7 +9,7 @@
   - [ ] przedział-punkt
   - [ ] punkt-przedział
   - [ ] przedział-przedział ⭐
-  - [ ] dynamiczne drzewo przedziałowe 
+  - [ ] dynamiczne drzewo przedziałowe
 - [ ] DAG i sortowanie topologiczne
 - [ ] Silne spójne składowe:
   - [ ] algorytm kosajru
@@ -67,7 +67,7 @@
   - [ ] haszowanie stringów
   - [ ] hashmapy
   - [ ] inne ciekawe zastosowania
-- [ ] Statystyki pozycyjne 
+- [ ] Statystyki pozycyjne
 - [ ] Algorytmy tekstowe
   - [ ] algorytm booyer'a moora
   - [ ] algorytm rabina-karpa
