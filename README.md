@@ -8,7 +8,7 @@ Tematy dzielą się na trzy poziomy:
 
 - **zaawansowany** (dla osób przygotowujących się do III etapu OI i wyżej)
 
-Do każdego poziomu jest dołączony spis treści. Każdy z nich jest specjalnie zrobiony pod wykorzystanie jako checklisty.
+Do każdego poziomu jest dołączony spis treści. Każdy z nich jest specjalnie zrobiony pod wykorzystanie jako checklisty. Dodatkowo w plikach załączona jest [pełna checklista](https://github.com/Matian37/programowanie-sportowe/blob/main/pelna_checklista.md).
 
 ## Oznaczenia do spisów treści
 
