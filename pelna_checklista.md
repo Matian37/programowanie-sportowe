@@ -1,5 +1,6 @@
 # Checklista tematów
 
+- [ ] Podstawy C++
 - [ ] Złożoności algorytmów
 - [ ] Zliczanie
 - [ ] Sumy prefiksowe
