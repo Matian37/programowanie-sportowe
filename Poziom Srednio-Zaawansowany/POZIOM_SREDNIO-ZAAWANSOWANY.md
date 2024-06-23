@@ -8,8 +8,8 @@
 - [ ] Drzewa przedziałowe
   - [ ] przedział-punkt
   - [ ] punkt-przedział
-  - [ ] przedział-przedział
-  - [ ] dynamiczne drzewo przedziałowe ⭐
+  - [ ] przedział-przedział ⭐
+  - [ ] dynamiczne drzewo przedziałowe 
 - [ ] DAG i sortowanie topologiczne
 - [ ] Silne spójne składowe:
   - [ ] algorytm kosajru
@@ -86,7 +86,7 @@
   - [ ] twierdzenia i funkcje
     - [ ] funckja eulera
     - [ ] funkcja sigma
-    - [ ] hipoteza goldbacha ⭐
+    - [ ] hipoteza goldbacha
   - [ ] arytmetyka modulo
   - [ ] sito liniowe
   - [ ] testy pierwszości
