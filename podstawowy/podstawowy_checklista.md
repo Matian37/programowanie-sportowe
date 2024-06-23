@@ -1,5 +1,5 @@
 # Poziom podstawowy
-
+- [ ] Podstawy C++
 - [ ] Złożoności algorytmów
 - [ ] Zliczanie
 - [ ] Sumy prefiksowe
