@@ -3,7 +3,7 @@
 - [ ] 2-SAT
 - [ ] Algorytmy randomizowane
 - [ ] Problemy NP
-  - [ ] przykładowe problemy NP 
+  - [ ] przykładowe problemy NP
   - [ ] rozwiązywanie zadań powiązanych z problemami NP
 - [ ] Algorytmy przepływowe
   - [ ] wstęp do przepływów
