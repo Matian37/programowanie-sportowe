@@ -10,7 +10,7 @@
   - [ ] przez wstawianie
   - [ ] przez wybieranie
   - [ ] przez zliczanie
-  - [ ] radix sort
+  - [ ] pozycyjne
   - [ ] funkcja sort w C++
 - [ ] Ciąg fibbonaciego
 - [ ] Podstawy teorii liczb
