@@ -1,4 +1,4 @@
-# Poziomu zaawansowany
+# Poziom zaawansowany
 
 - [ ] 2-SAT
 - [ ] Algorytmy randomizowane
