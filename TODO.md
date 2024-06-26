@@ -6,6 +6,7 @@
 - dodać inne algorytmy znajdowania max flow
 - do faktoryzacji dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
 - dodać podstawy c++
+- do podstaw c++ dodać linijki przyśpieszające
 - dodać stl w c++
 - dodać pbds w c++
 - do znajdowania cykli w grafie dodać algorytm floyda
