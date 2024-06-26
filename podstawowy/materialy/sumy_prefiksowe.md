@@ -17,6 +17,8 @@
 - **ZWOJ 2021**
   - [*Link do contestu*](https://sio2.mimuw.edu.pl/c/zwo21/dashboard/)
     > Zadania dotyczące sum prefiksowych znajdują się w zakładce **Zadania** w grupie **Warsztaty – niedziela**.
+    > 
+    > Jeżeli nie wiesz jak sortować w c++, to rób tylko zadania z jedną ★.
   - [*Omówienie zadań*](https://www.youtube.com/watch?v=FcvtuOenFQE)
 - **Szkopuł**
   - [Zadania](https://szkopul.edu.pl/problemset/?q=&algorithm=pref)
