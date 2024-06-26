@@ -11,3 +11,4 @@
 - do znajdowania cykli w grafie dodać algorytm floyda
 - przenieść część tematów z zaawansowanej teorii liczb do teorii liczb w poziomie srednio-zaawansowanym
 - w jakiejś formie dodać struktury 2D gridu
+- dodać rzeczy dotyczące np. jak można zgłaszać rozwiązania, co oznacza TLE, ACC itd.
