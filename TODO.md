@@ -5,7 +5,8 @@
 - dodać zliczanie ujemnych wartości do zliczania
 - dodać inne algorytmy znajdowania max flow
 - do faktoryzacji dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
-- dodać podstawy c++
+- rozszerzyć podstawy c++
+- dodać funkcje w c++
 - do podstaw c++ dodać linijki przyśpieszające
 - dodać stl w c++
 - dodać pbds w c++
