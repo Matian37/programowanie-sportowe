@@ -12,6 +12,9 @@
   - [ ] przez zliczanie
   - [ ] pozycyjne
   - [ ] funkcja sort w C++
+- [ ] Wstęp do algorytmów tekstowych
+  - [ ] char, string w C++
+  - [ ] palindromy, anagramy
 - [ ] Ciąg fibbonaciego
 - [ ] Podstawy teorii liczb
   - [ ] algorytm euklidesa
@@ -19,9 +22,6 @@
   - [ ] faktoryzacja liczb
   - [ ] znajdowanie dzielników i testy pierwszości
   - [ ] podstawy arytmetyki modulo
-- [ ] Wstęp do algorytmów tekstowych
-  - [ ] char, string w C++
-  - [ ] palindromy, anagramy
 - [ ] Znajdowanie lidera w ciągu
   - [ ] w złożoności O(n)
   - [ ] w złożoności O(n log n)
