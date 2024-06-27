@@ -15,12 +15,13 @@
 ## Zadania
 
 - **ZWOJ 2021**
+  - [*Zadanie OMJ*](https://sio2.mimuw.edu.pl/c/zwo21/p/omj/)
+  - [*Zadanie Deszczyk*](https://sio2.mimuw.edu.pl/c/zwo21/p/des/)
   - [*Link do contestu*](https://sio2.mimuw.edu.pl/c/zwo21/dashboard/)
-    > Zadania dotyczące sum prefiksowych znajdują się w zakładce **Zadania** w grupie **Warsztaty – niedziela**.
-    > 
-    > Na ten moment nauki rozwiąż tylko zadania z **jedną** ★.
   - [*Omówienie zadań*](https://www.youtube.com/watch?v=FcvtuOenFQE)
 - **Szkopuł**
-  - [*Zadania*](https://szkopul.edu.pl/problemset/?q=&algorithm=pref)
-- **USACO Guide**
-  - [*Lista zadań z angielskich stron wraz z podanym poziomem trudności*](https://usaco.guide/silver/prefix-sums?lang=cpp)
+  - [*Zadanie Zamek*](https://szkopul.edu.pl/problemset/problem/aCnLx5So80oufna1YLlfuuUY/site/?key=statement)
+  - [*Zadanie Pogotowie lotnicze*](https://szkopul.edu.pl/problemset/problem/-giTovECdeiNf1hrr1zqb-oY/site/?key=statement)
+  - [*Zadanie Kupiec*](https://szkopul.edu.pl/problemset/problem/Geba-YXAmWHFnOUgimkYmoUT/site/?key=statement)
+- **USACO**
+  - [*Zadanie Subsequences Summing to Sevens*](https://usaco.org/index.php?page=viewproblem2&cpid=595)
