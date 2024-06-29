@@ -16,6 +16,10 @@
   - [ ] algorytm tarjana
 - [ ] Technika small-to-large merging
 - [ ] Sumy prefiksowe 2D
+- [ ] Analiza kosztu zamortyzowanego
+  - [ ] metoda kosztu sumarycznego
+  - [ ] metoda księgowania
+  - [ ] metoda potencjału
 - [ ] Find and union
 - [ ] Przyśpieszanie dynamików
   - [ ] zmiana dp rekurencyjnego na iteracyjny
@@ -23,10 +27,6 @@
   - [ ] przyśpieszanie strukturkami
     - [ ] najdłuższy rosnący podciąg
   - [ ] nieodwiedzanie wszystkich stanów
-- [ ] Analiza kosztu zamortyzowanego
-  - [ ] metoda kosztu sumarycznego
-  - [ ] metoda księgowania
-  - [ ] metoda potencjału
 - [ ] Aktualizowanie poddrzew
 - [ ] Dynamiki na drzewach oraz technika przekorzeniania
 - [ ] Minimalne drzewo rozpinające
