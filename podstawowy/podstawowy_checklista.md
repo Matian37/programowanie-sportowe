@@ -50,11 +50,11 @@
 - [ ] Wstęp do programowania dynamicznego
   - [ ] rekurencyjne i iteracyjne podejście
   - [ ] rozwiązywanie zadań z dynamikami
+- [ ] Równoległe wyszukiwanie binarne
+- [ ] Ternary search
 - [ ] Wstęp do teorii grafów
   - [ ] wstęp, definicje i metody reprezentacji w komputerze
   - [ ] dfs i bfs
   - [ ] spójne składowe
   - [ ] cykl i ścieżka eulera
   - [ ] znajdowanie cykli w grafie
-- [ ] Równoległe wyszukiwanie binarne
-- [ ] Ternary search
