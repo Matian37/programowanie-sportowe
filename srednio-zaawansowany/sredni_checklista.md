@@ -1,15 +1,15 @@
 # Poziom średnio-zaawansowany
 
-- [ ] Klasyczne problemy dp
-  - [ ] problem plecakowy
-  - [ ] najdłuższy rosnący podciąg
-  - [ ] najdłuższy wspólny podciąg
 - [ ] Drzewo fenwicka
 - [ ] Drzewa przedziałowe
   - [ ] przedział-punkt
   - [ ] punkt-przedział
   - [ ] przedział-przedział ⭐
   - [ ] dynamiczne drzewo przedziałowe
+- [ ] Dynamiki
+  - [ ] problem plecakowy
+  - [ ] najdłuższy wspólny podciąg
+  - [ ] odtwarzanie optymalnego rozwiązania
 - [ ] DAG i sortowanie topologiczne
 - [ ] Silne spójne składowe:
   - [ ] algorytm kosajru
@@ -17,6 +17,12 @@
 - [ ] Technika small-to-large merging
 - [ ] Sumy prefiksowe 2D
 - [ ] Find and union
+- [ ] Przyśpieszanie dynamików
+  - [ ] zmiana dp rekurencyjnego na iteracyjny
+  - [ ] eliminacja stanów
+  - [ ] przyśpieszanie strukturkami
+    - [ ] najdłuższy rosnący podciąg
+  - [ ] nieodwiedzanie wszystkich stanów
 - [ ] Analiza kosztu zamortyzowanego
   - [ ] metoda kosztu sumarycznego
   - [ ] metoda księgowania
@@ -54,7 +60,6 @@
   - [ ] maski bitowe
   - [ ] sum over subsets
   - [ ] problem komiwojażera
-- [ ] Przyśpieszanie dynamików oraz triki
 - [ ] Geometria obliczeniowa
   - [ ] podstawy geometrii
   - [ ] wielokąty
@@ -63,6 +68,7 @@
   - [ ] otoczka wypukła
   - [ ] para najbliższych punktów
   - [ ] para najdalszych punktów
+- [ ] Nietrywialne triki do dynamików
 - [ ] Haszowanie
   - [ ] haszowanie stringów
   - [ ] hashmapy

@@ -48,6 +48,8 @@
   - [ ] dowodzenie rozwiązań zachłannych
 - [ ] Technika skalowania
 - [ ] Wstęp do programowania dynamicznego
+  - [ ] rekurencyjne i iteracyjne podejście
+  - [ ] rozwiązywanie zadań z dynamikami
 - [ ] Wstęp do teorii grafów
   - [ ] wstęp, definicje i metody reprezentacji w komputerze
   - [ ] dfs i bfs
