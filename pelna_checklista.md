@@ -62,6 +62,7 @@
 - [ ] Drzewa przedziałowe
   - [ ] przedział-punkt
   - [ ] punkt-przedział
+  - [ ] drzewo licznikowe
   - [ ] przedział-przedział ⭐
   - [ ] dynamiczne drzewo przedziałowe
 - [ ] Dynamiki
