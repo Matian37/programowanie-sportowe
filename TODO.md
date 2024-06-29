@@ -16,7 +16,7 @@
 - w jakiejś formie dodać struktury 2D gridu
 - dodać rzeczy dotyczące np. jak można zgłaszać rozwiązania, co oznacza TLE, ACC itd.
 
-# Status materiałów
+## Status materiałów
 
 - [ ] Podstawy C++
 - [ ] Złożoności algorytmów
