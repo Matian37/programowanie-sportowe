@@ -174,7 +174,7 @@
 - [ ] Rozbicie przez centroid
 - [ ] Potęgowanie macierzy
 - [ ] Dekompozycja heavy-light
-  - [ ] 2-SAT
+- [ ] 2-SAT
 - [ ] Algorytmy randomizowane
 - [ ] Problemy NP
   - [ ] przykładowe problemy NP
