@@ -10,7 +10,7 @@ Tematy są podzielone w trzy poziomy:
 
 - **średnio-zaawansowany**: dla przygotowujących się do I i II etapu Olimpiady Informatycznej.
 
-- **zaawansowany**: dla osób przygotowujących się do III etapu Olimpiady Informatycznej i wyżej.
+- **zaawansowany**: dla osób przygotowujących się do III etapu Olimpiady Informatycznej i o wyższym poziomie.
 
 Do każdego poziomu jest dołączony spis treści, posortowany zgodnie z sugerowaną kolejnością nauki.
 Każdy z tych spisów jest specjalnie zrobiony pod wykorzystanie jako checklisty.
