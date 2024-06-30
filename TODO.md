@@ -6,7 +6,7 @@
 - dodać inne algorytmy znajdowania max flow
 - do faktoryzacji dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
 - rozszerzyć podstawy c++
-- dodać funkcje w c++
+- dodać funkcje i rekurencje w c++
 - do podstaw c++ dodać linijki przyśpieszające
 - dodać stl w c++
 - dodać pbds w c++
