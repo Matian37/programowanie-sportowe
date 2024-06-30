@@ -17,6 +17,7 @@
 - dodać rzeczy dotyczące np. jak można zgłaszać rozwiązania, co oznacza TLE, ACC itd.
 - dodać dwudzielność grafu
 - dodać dwukolorowanie grafu
+- dodać izomorfizm drzew
 
 ## Status materiałów
 
