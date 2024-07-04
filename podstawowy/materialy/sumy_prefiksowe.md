@@ -5,7 +5,7 @@
 ## Materiały do nauki
 
 - **OKI**
-  - [Film z tłumaczeniem na przykładzie zadania](https://youtu.be/_gLUezRAW0s?t=814)
+  - [*Film z tłumaczeniem na przykładzie zadania*](https://youtu.be/_gLUezRAW0s?t=814)
 - **MAP**
   - [*Film z tłumaczeniem, kodem oraz zadaniem*](https://www.youtube.com/watch?v=nRSkYqtndqY)
     > **UWAGA!** Część wykładu o numerach 4 i 5 można pominąć, ponieważ nie dotyczy aktualnego tematu.
