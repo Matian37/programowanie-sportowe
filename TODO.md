@@ -18,6 +18,7 @@
 - dodać dwudzielność grafu
 - dodać dwukolorowanie grafu
 - dodać izomorfizm drzew
+- rozdzielić dynamiki na cyfrach oraz przedziałach
 
 ## Status materiałów
 
