@@ -56,7 +56,8 @@
   - [ ] backtracking
   - [ ] pisanie brutów
   - [ ] branch and bound ⭐
-- [ ] Dynamiki na cyfrach oraz przedziałach
+- [ ] Dynamiki cyfrowe 
+- [ ] Dynamiki przedziałowe
 - [ ] Dynamiki wykładnicze
   - [ ] maski bitowe
   - [ ] sum over subsets
