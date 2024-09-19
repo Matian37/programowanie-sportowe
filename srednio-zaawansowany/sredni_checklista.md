@@ -2,9 +2,9 @@
 
 - [ ] Drzewo fenwicka
 - [ ] Drzewa przedziałowe
-  - [ ] przedział-punkt
   - [ ] punkt-przedział
-  - [ ] drzewo licznikowe
+  - [ ] przedział-punkt
+  - [ ] zastosowanie jako drzewo licznikowe
   - [ ] przedział-przedział
   - [ ] dynamiczne drzewo przedziałowe
 - [ ] Dynamiki
@@ -12,7 +12,7 @@
   - [ ] najdłuższy wspólny podciąg
   - [ ] odtwarzanie optymalnego rozwiązania
 - [ ] DAG i sortowanie topologiczne
-- [ ] Silne spójne składowe:
+- [ ] Silne spójne składowe
   - [ ] algorytm kosajru
   - [ ] algorytm tarjana
 - [ ] Technika small-to-large merging
@@ -26,8 +26,7 @@
   - [ ] zmiana dp rekurencyjnego na iteracyjny
   - [ ] eliminacja stanów
   - [ ] przyśpieszanie strukturkami
-    - [ ] najdłuższy rosnący podciąg
-  - [ ] nieodwiedzanie wszystkich stanów
+  - [ ] wykorzystywanie własności dp-ka
 - [ ] Aktualizowanie poddrzew
 - [ ] Dynamiki na drzewach oraz technika przekorzeniania
 - [ ] Minimalne drzewo rozpinające
@@ -45,7 +44,7 @@
 - [ ] LCA
   - [ ] przy użyciu jump pointerów
   - [ ] przy użyciu euler toura
-  - [ ] algorytm tarjana
+  - [ ] offline algorytm tarjana
 - [ ] Pierwiastki
   - [ ] dekompozycja na pierwiastki
   - [ ] aktualizacja co pierwiastek
@@ -56,7 +55,7 @@
   - [ ] backtracking
   - [ ] pisanie brutów
   - [ ] branch and bound
-- [ ] Dynamiki cyfrowe 
+- [ ] Dynamiki na cyfrach
 - [ ] Dynamiki przedziałowe
 - [ ] Dynamiki wykładnicze
   - [ ] maski bitowe
@@ -70,30 +69,26 @@
   - [ ] otoczka wypukła
   - [ ] para najbliższych punktów
   - [ ] para najdalszych punktów
-- [ ] Nietrywialne triki do dynamików
 - [ ] Haszowanie
-  - [ ] haszowanie stringów
+  - [ ] haszowanie różnych obiektów
   - [ ] hashmapy
-  - [ ] inne ciekawe zastosowania
+  - [ ] inne zastosowania
 - [ ] Statystyki pozycyjne
 - [ ] Algorytmy tekstowe
   - [ ] algorytm booyer'a moora
   - [ ] algorytm rabina-karpa
-  - [ ] wstępne pojęcia i kmp
+  - [ ] lematy i algorytm kmp
   - [ ] drzewo trie
   - [ ] porównywanie tekstów z aktualizacjami
   - [ ] algorytm manachera
   - [ ] algorytm kmr
   - [ ] algorytm z
-- [ ] Drzewo falkowe
-- [ ] Meduzy
 - [ ] Teoria gier
   - [ ] strategie w grach i w rozwiązywaniu zadań
   - [ ] twierdzenie sprague-grundy'ego
 - [ ] Teoria liczb
   - [ ] twierdzenia i funkcje
-    - [ ] funckja eulera
-    - [ ] funkcja sigma
+    - [ ] funckja eulera, sigma
     - [ ] hipoteza goldbacha
   - [ ] arytmetyka modulo
   - [ ] sito liniowe

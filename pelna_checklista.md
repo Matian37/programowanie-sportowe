@@ -1,51 +1,59 @@
-# Checklista tematów
+# Poziom podstawowy
 
+- [ ] Wstęp do programowania sportowego
 - [ ] Podstawy C++
+  - [ ] składnia języka
+  - [ ] wejście/wyjście
+  - [ ] zmienne
+  - [ ] arytmetytka
+  - [ ] instrukcje warunkowe
+  - [ ] pętle
+  - [ ] tablice
+  - [ ] stringi
 - [ ] Złożoności algorytmów
 - [ ] Zliczanie
 - [ ] Sumy prefiksowe
 - [ ] Algorytm kadane
 - [ ] Sortowanie
   - [ ] bąbelkowe
-  - [ ] przez wstawianie
   - [ ] przez wybieranie
   - [ ] przez zliczanie
   - [ ] pozycyjne
-  - [ ] funkcja sort w C++
-- [ ] Wstęp do algorytmów tekstowych
-  - [ ] char, string w C++
-  - [ ] palindromy, anagramy
 - [ ] Ciąg fibbonaciego
 - [ ] Podstawy teorii liczb
+  - [ ] podstawy arytmetyki modulo
   - [ ] algorytm euklidesa
   - [ ] sito erastotenesa
   - [ ] faktoryzacja liczb
   - [ ] znajdowanie dzielników i testy pierwszości
-  - [ ] podstawy arytmetyki modulo
 - [ ] Znajdowanie lidera w ciągu
-  - [ ] w złożoności O(n)
-  - [ ] w złożoności O(n log n)
 - [ ] Szereg harmoniczny w zadaniach
-- [ ] Stos, kolejka, lista
 - [ ] Algorytm gąsienicy
 - [ ] Wyszukiwanie binarne
 - [ ] System liczbowe i operacje bitowe
 - [ ] Szybkie potęgowanie
 - [ ] Wyszukiwanie binarne po wyniku
+- [ ] Funkcje i rekurencja
+- [ ] Wskaźniki oraz referencja
 - [ ] Drzewa
-  - [ ] wstęp i definicja
-  - [ ] kopiec, kolejka priorytetowa
-  - [ ] drzewo poszukiwań binarnych (BST)
+  - [ ] definicja i pojęcia
+  - [ ] kopiec oraz kolejka priorytetowa
+  - [ ] BST - drzewo poszukiwań binarnych
 - [ ] Dziel i zwyciężaj
   - [ ] mergesort
   - [ ] quicksort
-  - [ ] sposoby liczenia złożoności
+  - [ ] obliczanie złożoności dla tego typu algorytmów
 - [ ] Znajdowanie k-tego elementu w ciągu
   - [ ] quickselect
+- [ ] Sturktury danych w STL
+  - [ ] vector
+  - [ ] stos, lista, kolejka
+  - [ ] set, mapa
 - [ ] Programowanie zachłanne
   - [ ] problem wyboru zajęć
   - [ ] podstawy strategii zachłannej
   - [ ] dowodzenie rozwiązań zachłannych
+- [ ] Sortowanie z komparatorem
 - [ ] Technika skalowania
 - [ ] Wstęp do programowania dynamicznego
   - [ ] rekurencyjne i iteracyjne podejście
@@ -53,16 +61,17 @@
 - [ ] Równoległe wyszukiwanie binarne
 - [ ] Ternary search
 - [ ] Wstęp do teorii grafów
-  - [ ] wstęp, definicje i metody reprezentacji w komputerze
+  - [ ] definicje, pojęcia
+  - [ ] reprezentacja grafów w pamięci
   - [ ] dfs i bfs
   - [ ] spójne składowe
   - [ ] cykl i ścieżka eulera
   - [ ] znajdowanie cykli w grafie
 - [ ] Drzewo fenwicka
 - [ ] Drzewa przedziałowe
-  - [ ] przedział-punkt
   - [ ] punkt-przedział
-  - [ ] drzewo licznikowe
+  - [ ] przedział-punkt
+  - [ ] zastosowanie jako drzewo licznikowe
   - [ ] przedział-przedział
   - [ ] dynamiczne drzewo przedziałowe
 - [ ] Dynamiki
@@ -70,7 +79,7 @@
   - [ ] najdłuższy wspólny podciąg
   - [ ] odtwarzanie optymalnego rozwiązania
 - [ ] DAG i sortowanie topologiczne
-- [ ] Silne spójne składowe:
+- [ ] Silne spójne składowe
   - [ ] algorytm kosajru
   - [ ] algorytm tarjana
 - [ ] Technika small-to-large merging
@@ -84,8 +93,7 @@
   - [ ] zmiana dp rekurencyjnego na iteracyjny
   - [ ] eliminacja stanów
   - [ ] przyśpieszanie strukturkami
-    - [ ] najdłuższy rosnący podciąg
-  - [ ] nieodwiedzanie wszystkich stanów
+  - [ ] wykorzystywanie własności dp-ka
 - [ ] Aktualizowanie poddrzew
 - [ ] Dynamiki na drzewach oraz technika przekorzeniania
 - [ ] Minimalne drzewo rozpinające
@@ -103,7 +111,7 @@
 - [ ] LCA
   - [ ] przy użyciu jump pointerów
   - [ ] przy użyciu euler toura
-  - [ ] algorytm tarjana
+  - [ ] offline algorytm tarjana
 - [ ] Pierwiastki
   - [ ] dekompozycja na pierwiastki
   - [ ] aktualizacja co pierwiastek
@@ -114,7 +122,8 @@
   - [ ] backtracking
   - [ ] pisanie brutów
   - [ ] branch and bound
-- [ ] Dynamiki na cyfrach oraz przedziałach
+- [ ] Dynamiki na cyfrach
+- [ ] Dynamiki przedziałowe
 - [ ] Dynamiki wykładnicze
   - [ ] maski bitowe
   - [ ] sum over subsets
@@ -127,30 +136,26 @@
   - [ ] otoczka wypukła
   - [ ] para najbliższych punktów
   - [ ] para najdalszych punktów
-- [ ] Nietrywialne triki do dynamików
 - [ ] Haszowanie
-  - [ ] haszowanie stringów
+  - [ ] haszowanie różnych obiektów
   - [ ] hashmapy
-  - [ ] inne ciekawe zastosowania
+  - [ ] inne zastosowania
 - [ ] Statystyki pozycyjne
 - [ ] Algorytmy tekstowe
   - [ ] algorytm booyer'a moora
   - [ ] algorytm rabina-karpa
-  - [ ] wstępne pojęcia i kmp
+  - [ ] lematy i algorytm kmp
   - [ ] drzewo trie
   - [ ] porównywanie tekstów z aktualizacjami
   - [ ] algorytm manachera
   - [ ] algorytm kmr
   - [ ] algorytm z
-- [ ] Drzewo falkowe
-- [ ] Meduzy
 - [ ] Teoria gier
   - [ ] strategie w grach i w rozwiązywaniu zadań
   - [ ] twierdzenie sprague-grundy'ego
 - [ ] Teoria liczb
   - [ ] twierdzenia i funkcje
-    - [ ] funckja eulera
-    - [ ] funkcja sigma
+    - [ ] funckja eulera, sigma
     - [ ] hipoteza goldbacha
   - [ ] arytmetyka modulo
   - [ ] sito liniowe

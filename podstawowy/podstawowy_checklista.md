@@ -1,51 +1,59 @@
 # Poziom podstawowy
 
+- [ ] Wstęp do programowania sportowego
 - [ ] Podstawy C++
+  - [ ] składnia języka
+  - [ ] wejście/wyjście
+  - [ ] zmienne
+  - [ ] arytmetytka
+  - [ ] instrukcje warunkowe
+  - [ ] pętle
+  - [ ] tablice
+  - [ ] stringi
 - [ ] Złożoności algorytmów
 - [ ] Zliczanie
 - [ ] Sumy prefiksowe
 - [ ] Algorytm kadane
 - [ ] Sortowanie
   - [ ] bąbelkowe
-  - [ ] przez wstawianie
   - [ ] przez wybieranie
   - [ ] przez zliczanie
   - [ ] pozycyjne
-  - [ ] funkcja sort w C++
-- [ ] Wstęp do algorytmów tekstowych
-  - [ ] char, string w C++
-  - [ ] palindromy, anagramy
 - [ ] Ciąg fibbonaciego
 - [ ] Podstawy teorii liczb
+  - [ ] podstawy arytmetyki modulo
   - [ ] algorytm euklidesa
   - [ ] sito erastotenesa
   - [ ] faktoryzacja liczb
   - [ ] znajdowanie dzielników i testy pierwszości
-  - [ ] podstawy arytmetyki modulo
 - [ ] Znajdowanie lidera w ciągu
-  - [ ] w złożoności O(n)
-  - [ ] w złożoności O(n log n)
 - [ ] Szereg harmoniczny w zadaniach
-- [ ] Stos, kolejka, lista
 - [ ] Algorytm gąsienicy
 - [ ] Wyszukiwanie binarne
 - [ ] System liczbowe i operacje bitowe
 - [ ] Szybkie potęgowanie
 - [ ] Wyszukiwanie binarne po wyniku
+- [ ] Funkcje i rekurencja
+- [ ] Wskaźniki oraz referencja
 - [ ] Drzewa
-  - [ ] wstęp i definicja
-  - [ ] kopiec, kolejka priorytetowa
-  - [ ] drzewo poszukiwań binarnych (BST)
+  - [ ] definicja i pojęcia
+  - [ ] kopiec oraz kolejka priorytetowa
+  - [ ] BST - drzewo poszukiwań binarnych
 - [ ] Dziel i zwyciężaj
   - [ ] mergesort
   - [ ] quicksort
-  - [ ] sposoby liczenia złożoności
+  - [ ] obliczanie złożoności dla tego typu algorytmów
 - [ ] Znajdowanie k-tego elementu w ciągu
   - [ ] quickselect
+- [ ] Sturktury danych w STL
+  - [ ] vector
+  - [ ] stos, lista, kolejka
+  - [ ] set, mapa
 - [ ] Programowanie zachłanne
   - [ ] problem wyboru zajęć
   - [ ] podstawy strategii zachłannej
   - [ ] dowodzenie rozwiązań zachłannych
+- [ ] Sortowanie z komparatorem
 - [ ] Technika skalowania
 - [ ] Wstęp do programowania dynamicznego
   - [ ] rekurencyjne i iteracyjne podejście
@@ -53,7 +61,8 @@
 - [ ] Równoległe wyszukiwanie binarne
 - [ ] Ternary search
 - [ ] Wstęp do teorii grafów
-  - [ ] wstęp, definicje i metody reprezentacji w komputerze
+  - [ ] definicje, pojęcia
+  - [ ] reprezentacja grafów w pamięci
   - [ ] dfs i bfs
   - [ ] spójne składowe
   - [ ] cykl i ścieżka eulera

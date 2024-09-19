@@ -1,212 +1,38 @@
 # To Do
 
-- dodać średnica drzew do tematu z drzewami
-- dodać rotating calipers method
-- dodać zliczanie ujemnych wartości do zliczania
-- dodać inne algorytmy znajdowania max flow
-- do faktoryzacji dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
-- rozszerzyć podstawy c++
-- dodać funkcje i rekurencje w c++
-- do podstaw c++ dodać linijki przyśpieszające
-- dodać stl w c++
-- dodać pbds w c++
-- dodać sortowanie z comparatorem dla różnych typów danych
-- do znajdowania cykli w grafie dodać algorytm floyda
-- przenieść część tematów z zaawansowanej teorii liczb do teorii liczb w poziomie srednio-zaawansowanym
-- w jakiejś formie dodać struktury 2D gridu
-- dodać rzeczy dotyczące np. jak można zgłaszać rozwiązania, co oznacza TLE, ACC itd.
-- dodać dwudzielność grafu
-- dodać dwukolorowanie grafu
-- dodać izomorfizm drzew
+W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
 
-## Status materiałów
+## Spis treści
 
-- [ ] Podstawy C++
-- [ ] Złożoności algorytmów
-- [ ] Zliczanie
-- [X] Sumy prefiksowe
-- [ ] Algorytm kadane
-- [ ] Sortowanie
-  - [ ] bąbelkowe
-  - [ ] przez wstawianie
-  - [ ] przez wybieranie
-  - [ ] przez zliczanie
-  - [ ] pozycyjne
-  - [ ] funkcja sort w C++
-- [ ] Ciąg fibbonaciego
-- [ ] Podstawy teorii liczb
-  - [ ] algorytm euklidesa
-  - [ ] sito erastotenesa
-  - [ ] faktoryzacja liczb
-  - [ ] znajdowanie dzielników i testy pierwszości
-  - [ ] podstawy arytmetyki modulo
-- [ ] Wstęp do algorytmów tekstowych
-  - [ ] char, string w C++
-  - [ ] palindromy, anagramy
-- [ ] Znajdowanie lidera w ciągu
-  - [ ] w złożoności O(n)
-  - [ ] w złożoności O(n log n)
-- [ ] Szereg harmoniczny w zadaniach
-- [ ] Stos, kolejka, lista
-- [ ] Algorytm gąsienicy
-- [ ] Wyszukiwanie binarne
-- [ ] System liczbowe i operacje bitowe
-- [ ] Szybkie potęgowanie
-- [ ] Wyszukiwanie binarne po wyniku
-- [ ] Drzewa
-  - [ ] wstęp i definicja
-  - [ ] kopiec, kolejka priorytetowa
-  - [ ] drzewo poszukiwań binarnych (BST)
-- [ ] Dziel i zwyciężaj
-  - [ ] mergesort
-  - [ ] quicksort
-  - [ ] sposoby liczenia złożoności
-- [ ] Znajdowanie k-tego elementu w ciągu
-  - [ ] quickselect
-- [ ] Programowanie zachłanne
-  - [ ] problem wyboru zajęć
-  - [ ] podstawy strategii zachłannej
-  - [ ] dowodzenie rozwiązań zachłannych
-- [ ] Technika skalowania
-- [ ] Wstęp do programowania dynamicznego
-- [ ] Wstęp do teorii grafów
-  - [ ] wstęp, definicje i metody reprezentacji w komputerze
-  - [ ] dfs i bfs
-  - [ ] spójne składowe
-  - [ ] cykl i ścieżka eulera
-  - [ ] znajdowanie cykli w grafie
-- [ ] Równoległe wyszukiwanie binarne
-- [ ] Ternary search
-- [ ] Klasyczne problemy dp
-  - [ ] problem plecakowy
-  - [ ] najdłuższy rosnący podciąg
-  - [ ] najdłuższy wspólny podciąg
-- [ ] Drzewo fenwicka
-- [ ] Drzewa przedziałowe
-  - [ ] przedział-punkt
-  - [ ] punkt-przedział
-  - [ ] przedział-przedział ⭐
-  - [ ] dynamiczne drzewo przedziałowe
-- [ ] DAG i sortowanie topologiczne
-- [ ] Silne spójne składowe:
-  - [ ] algorytm kosajru
-  - [ ] algorytm tarjana
-- [ ] Technika small-to-large merging
-- [ ] Sumy prefiksowe 2D
-- [ ] Find and union
-- [ ] Analiza kosztu zamortyzowanego
-  - [ ] metoda kosztu sumarycznego
-  - [ ] metoda księgowania
-  - [ ] metoda potencjału
-- [ ] Aktualizowanie poddrzew
-- [ ] Dynamiki na drzewach oraz technika przekorzeniania
-- [ ] Minimalne drzewo rozpinające
-  - [ ] algorytm prima
-  - [ ] algorytm kruskala
-  - [ ] algorytm borůvki ⭐
-- [ ] Algorytmy najkrótszej ścieżki
-  - [ ] algorytm dijkstry
-  - [ ] algorytm bellmana-forda oraz spfa
-  - [ ] algorytm floyda-warshalla
-  - [ ] algorytm johnsona ⭐
-  - [ ] algorytm a* ⭐
-- [ ] Sparse table
-- [ ] Technika euler toura
-- [ ] LCA
-  - [ ] przy użyciu jump pointerów
-  - [ ] przy użyciu euler toura
-  - [ ] algorytm tarjana
-- [ ] Pierwiastki
-  - [ ] dekompozycja na pierwiastki
-  - [ ] aktualizacja co pierwiastek
-  - [ ] technika light and heavy
-  - [ ] algorytm mo
-- [ ] Kolejka monotoniczna oraz monotoniczny stos
-- [ ] Podejście brutalne
-  - [ ] backtracking
-  - [ ] pisanie brutów
-  - [ ] branch and bound ⭐
-- [ ] Dynamiki na cyfrach oraz przedziałach
-- [ ] Dynamiki wykładnicze
-  - [ ] maski bitowe
-  - [ ] sum over subsets
-  - [ ] problem komiwojażera
-- [ ] Przyśpieszanie dynamików oraz triki
-- [ ] Geometria obliczeniowa
-  - [ ] podstawy geometrii
-  - [ ] wielokąty
-  - [ ] zamiatanie
-  - [ ] sortowanie kątowe
-  - [ ] otoczka wypukła
-  - [ ] para najbliższych punktów
-  - [ ] para najdalszych punktów
-- [ ] Haszowanie
-  - [ ] haszowanie stringów
-  - [ ] hashmapy
-  - [ ] inne ciekawe zastosowania
-- [ ] Statystyki pozycyjne
-- [ ] Algorytmy tekstowe
-  - [ ] algorytm booyer'a moora
-  - [ ] algorytm rabina-karpa
-  - [ ] wstępne pojęcia i kmp
-  - [ ] drzewo trie
-  - [ ] porównywanie tekstów z aktualizacjami
-  - [ ] algorytm manachera ⭐
-  - [ ] algorytm kmr ⭐
-  - [ ] algorytm z ⭐
-- [ ] Drzewo falkowe
-- [ ] Meduzy
-- [ ] Teoria gier
-  - [ ] strategie w grach i w rozwiązywaniu zadań
-  - [ ] twierdzenie sprague-grundy'ego
-- [ ] Teoria liczb
-  - [ ] twierdzenia i funkcje
-    - [ ] funckja eulera
-    - [ ] funkcja sigma
-    - [ ] hipoteza goldbacha
-  - [ ] arytmetyka modulo
-  - [ ] sito liniowe
-  - [ ] testy pierwszości
-  - [ ] rozszerzony algorytm euklidesa
-  - [ ] bignumy
-- [ ] Funkcja low
-- [ ] Meet in the middle
-- [ ] Rozbicie przez centroid
-- [ ] Potęgowanie macierzy
-- [ ] Dekompozycja heavy-light
-- [ ] 2-SAT
-- [ ] Algorytmy randomizowane
-- [ ] Problemy NP
-  - [ ] przykładowe problemy NP
-  - [ ] rozwiązywanie zadań powiązanych z problemami NP
-- [ ] Algorytmy przepływowe
-  - [ ] wstęp do przepływów
-  - [ ] problem maksymalnego przepływu i algorytm forda-Fulkersona
-  - [ ] algorytm edmondsa-karpa
-  - [ ] algorytm dinica
-  - [ ] algorytm hopcrofta-karpa
-  - [ ] skalowanie
-  - [ ] maksymalny przepływ minimalnym kosztem
-- [ ] Skojarzenia w grafach
-- [ ] Grafy planarne
-- [ ] Trwałe struktury danych
-- [ ] Usuwanie offline
-- [ ] Zaawansowany DP
-  - [ ] slope trick
-  - [ ] convex hull trick
-  - [ ] optymalizacja z dziel i zwyciężaj
-  - [ ] optymalizacja knutha
-- [ ] Zaawansowana teoria liczb
-  - [ ] algorytm rho pollarda
-  - [ ] trik z pierwiastkiem sześciennym
-  - [ ] chińskie twierdzenie o resztach
-  - [ ] binarne gcd
-  - [ ] generatory i logarytm dyskretny w arytmetyce modulo
-- [ ] Zaawansowane algorytmy tekstowe
-  - [ ] tablica sufiksowa
-  - [ ] suffix automata
-  - [ ] drzewo sufiksowe
-  - [ ] drzewo palindromiczne
-  - [ ] aho corasick
-- [ ] Geometryczne struktury danych
-- [ ] Wielomiany i FFT
+- Poziom podstawowy
+
+- Poziom średnio-zaawansowany
+  - dodać dwudzielność, dwukolorowanie grafu
+  - dodać izomorfizm drzew
+  - w jakiejś formie dodać struktury 2D gridu
+- Poziom zaawansowany
+  - dodać inne algorytmy znajdowania max flow
+  - przenieść część tematów z zaawansowanej teorii liczb do teorii liczb w poziomie srednio-zaawansowanym
+- Inne
+
+## Materiały
+
+- Poziom podstawowy
+  - do faktoryzacji dodać znajdowanie czynnikow pierwszych w O(sqrt(n))
+  - do znajdowania cykli w grafie dodać algorytm floyda
+  - do podstaw c++ dodać linijki przyśpieszające
+  - do quickselect dodaj funkcję nth_element w c++
+  - do stringów dodać pojęcie palindromu i anagramu
+  - dodać zliczanie ujemnych wartości do zliczania
+  - do sortowania bąbelkowego dodać wątek o optymalizacji
+  - do sortowania dodać funkcję sort()
+  - do znajdowania lidera dodać technikę w O(n) i O(n log n)
+  - do STL dodać mutliset, multimap, forward_list oraz deque
+- Poziom średnio-zaawansowany
+  - do algorytmu mo dodać sposoby unikania złożoności $O(n * \sqrt{n} * log_2n)$
+  - dodać do najdalszych punktow rotating calipers method
+  - dodać gdzieś meduzy
+- Poziom zaawansowany
+
+- Inne
+  - dodać gdzieś wavelet
