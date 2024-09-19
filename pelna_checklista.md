@@ -155,7 +155,7 @@
   - [ ] twierdzenie sprague-grundy'ego
 - [ ] Teoria liczb
   - [ ] twierdzenia i funkcje
-    - [ ] funckja eulera, sigma
+    - [ ] funkcja eulera, sigma
     - [ ] hipoteza goldbacha
   - [ ] arytmetyka modulo
   - [ ] sito liniowe
