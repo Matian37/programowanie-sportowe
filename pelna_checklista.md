@@ -63,7 +63,7 @@
   - [ ] przedział-punkt
   - [ ] punkt-przedział
   - [ ] drzewo licznikowe
-  - [ ] przedział-przedział ⭐
+  - [ ] przedział-przedział
   - [ ] dynamiczne drzewo przedziałowe
 - [ ] Dynamiki
   - [ ] problem plecakowy
@@ -91,13 +91,13 @@
 - [ ] Minimalne drzewo rozpinające
   - [ ] algorytm prima
   - [ ] algorytm kruskala
-  - [ ] algorytm borůvki ⭐
+  - [ ] algorytm borůvki
 - [ ] Algorytmy najkrótszej ścieżki
   - [ ] algorytm dijkstry
   - [ ] algorytm bellmana-forda oraz spfa
   - [ ] algorytm floyda-warshalla
-  - [ ] algorytm johnsona ⭐
-  - [ ] algorytm a* ⭐
+  - [ ] algorytm johnsona
+  - [ ] algorytm a*
 - [ ] Sparse table
 - [ ] Technika euler toura
 - [ ] LCA
@@ -113,7 +113,7 @@
 - [ ] Podejście brutalne
   - [ ] backtracking
   - [ ] pisanie brutów
-  - [ ] branch and bound ⭐
+  - [ ] branch and bound
 - [ ] Dynamiki na cyfrach oraz przedziałach
 - [ ] Dynamiki wykładnicze
   - [ ] maski bitowe
@@ -139,9 +139,9 @@
   - [ ] wstępne pojęcia i kmp
   - [ ] drzewo trie
   - [ ] porównywanie tekstów z aktualizacjami
-  - [ ] algorytm manachera ⭐
-  - [ ] algorytm kmr ⭐
-  - [ ] algorytm z ⭐
+  - [ ] algorytm manachera
+  - [ ] algorytm kmr
+  - [ ] algorytm z
 - [ ] Drzewo falkowe
 - [ ] Meduzy
 - [ ] Teoria gier
