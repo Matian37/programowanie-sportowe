@@ -57,6 +57,7 @@
   - [ ] branch and bound
 - [ ] Dynamiki na cyfrach
 - [ ] Dynamiki przedziałowe
+- [ ] Izomorfizm drzew
 - [ ] Dynamiki wykładnicze
   - [ ] maski bitowe
   - [ ] sum over subsets
@@ -95,6 +96,7 @@
   - [ ] testy pierwszości
   - [ ] rozszerzony algorytm euklidesa
   - [ ] bignumy
+- [ ] Struktury danych 2D
 - [ ] Funkcja low
 - [ ] Meet in the middle
 - [ ] Rozbicie przez centroid

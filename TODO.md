@@ -8,12 +8,11 @@ W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
 
 - Poziom średnio-zaawansowany
   - dodać dwudzielność, dwukolorowanie grafu
-  - dodać izomorfizm drzew
-  - w jakiejś formie dodać struktury 2D gridu
 - Poziom zaawansowany
   - dodać inne algorytmy znajdowania max flow
   - przenieść część tematów z zaawansowanej teorii liczb do teorii liczb w poziomie srednio-zaawansowanym
 - Inne
+  - dodać gdzieś wavelet tree
 
 ## Materiały
 
@@ -33,6 +32,3 @@ W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
   - dodać do najdalszych punktow rotating calipers method
   - dodać gdzieś meduzy
 - Poziom zaawansowany
-
-- Inne
-  - dodać gdzieś wavelet
