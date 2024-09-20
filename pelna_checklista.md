@@ -1,4 +1,4 @@
-# Poziom podstawowy
+# Checklista
 
 - [ ] Wstęp do programowania sportowego
 - [ ] Podstawy C++
