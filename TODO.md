@@ -7,6 +7,7 @@ W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
 - Poziom podstawowy
 
 - Poziom średnio-zaawansowany
+  - Przenieść podejście brutalne niżej
   - dodać dwudzielność, dwukolorowanie grafu
 - Poziom zaawansowany
   - dodać inne algorytmy znajdowania max flow
