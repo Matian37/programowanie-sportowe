@@ -31,5 +31,4 @@ W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
 - Poziom średnio-zaawansowany
   - do algorytmu mo dodać sposoby unikania złożoności $O(n * \sqrt{n} * log_2n)$
   - dodać do najdalszych punktow rotating calipers method
-  - dodać gdzieś meduzy
 - Poziom zaawansowany

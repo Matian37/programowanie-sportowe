@@ -154,6 +154,7 @@
 - [ ] Teoria gier
   - [ ] strategie w grach i w rozwiązywaniu zadań
   - [ ] twierdzenie sprague-grundy'ego
+- [ ] Meduzy
 - [ ] Teoria liczb
   - [ ] twierdzenia i funkcje
     - [ ] funkcja eulera, sigma
