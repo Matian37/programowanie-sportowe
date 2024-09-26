@@ -71,9 +71,8 @@
 - [ ] Drzewa przedziałowe
   - [ ] punkt-przedział
   - [ ] przedział-punkt
-  - [ ] zastosowanie jako drzewo licznikowe
   - [ ] przedział-przedział
-  - [ ] dynamiczne drzewo przedziałowe
+  - [ ] zastosowania
 - [ ] Brute force
 - [ ] Dynamiki
   - [ ] problem plecakowy
