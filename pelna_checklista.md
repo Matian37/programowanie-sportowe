@@ -74,6 +74,7 @@
   - [ ] zastosowanie jako drzewo licznikowe
   - [ ] przedział-przedział
   - [ ] dynamiczne drzewo przedziałowe
+- [ ] Brute force
 - [ ] Dynamiki
   - [ ] problem plecakowy
   - [ ] najdłuższy wspólny podciąg
@@ -118,10 +119,6 @@
   - [ ] technika light and heavy
   - [ ] algorytm mo
 - [ ] Kolejka monotoniczna oraz monotoniczny stos
-- [ ] Podejście brutalne
-  - [ ] backtracking
-  - [ ] pisanie brutów
-  - [ ] branch and bound
 - [ ] Dynamiki na cyfrach
 - [ ] Dynamiki przedziałowe
 - [ ] Izomorfizm drzew

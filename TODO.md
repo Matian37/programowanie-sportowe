@@ -7,7 +7,6 @@ W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
 - Poziom podstawowy
 
 - Poziom średnio-zaawansowany
-  - Przenieść podejście brutalne niżej
   - dodać dwudzielność, dwukolorowanie grafu
 - Poziom zaawansowany
   - dodać inne algorytmy znajdowania max flow
@@ -32,3 +31,4 @@ W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
   - do algorytmu mo dodać sposoby unikania złożoności $O(n * \sqrt{n} * log_2n)$
   - dodać do najdalszych punktow rotating calipers method
 - Poziom zaawansowany
+  - do NP dodaj branch and bound
