@@ -42,7 +42,7 @@
 - [ ] Dziel i zwyciężaj
   - [ ] mergesort
   - [ ] quicksort
-  - [ ] obliczanie złożoności dla tego typu algorytmów
+  - [ ] obliczanie złożoności
 - [ ] Znajdowanie k-tego elementu w ciągu
   - [ ] quickselect
 - [ ] Sturktury danych w STL
