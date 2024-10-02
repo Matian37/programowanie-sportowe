@@ -13,6 +13,7 @@ W tym pliku znajdują się zadania do zrobienia związane z tym repozytorium
   - przenieść część tematów z zaawansowanej teorii liczb do teorii liczb w poziomie srednio-zaawansowanym
 - Inne
   - dodać gdzieś wavelet tree
+  - structy
 
 ## Materiały
 
